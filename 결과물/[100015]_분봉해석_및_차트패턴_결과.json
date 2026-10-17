@@ -1,0 +1,72 @@
+{
+  "video_id": "100015",
+  "video_title": "분봉해석 및 차트패턴",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "일봉의 추세와 캔들은 분봉에서 일어나는 세력과 개인의 치열한 공방(지지, 저항, 돌파)의 결과물임. 분봉상 오전 9:00~9:30 시초가 갭 형성 후 형성된 아침 저점을 딛고 일어서는 N자형 패턴과, 라운드피겨 가격대를 2~3회 두드리며 지지하는 쌍바닥/다중바닥의 신뢰도를 판별하여 정밀한 분봉 타점을 잡는 기법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "현미경으로 세포 들여다보기 비유",
+        "intended_meaning": "일봉이라는 숲만 보면 보이지 않던 세력의 매집과 개미 털기 흔적이 분봉이라는 현미경을 통해 명확한 가격 패턴으로 드러남."
+      },
+      {
+        "original_metaphor": "계단 오르기 비유",
+        "intended_meaning": "한 번에 수직 상승하는 종목보다, 한 계단 오르고 쉬고(지지) 다시 한 계단 오르는 분봉 차트가 가장 안전하고 오래 감."
+      }
+    ],
+    "psychological_warnings": "분봉의 잔파도에 눈이 어지러워 1분마다 사고팔기를 반복하는 초단타 중독을 경계할 것. 분봉에서도 의미 있는 지지선과 저항선(라운드피겨, 당일 시가, 전고점)의 큰 뼈대만 바라보아야 함."
+  },
+  "quantitative_filters": {
+    "intraday_n_pattern": "오전 고점 형성 후 조정 시, 당일 시가 또는 오전 저점을 깨지 않고 반등하는 N자형 패턴.",
+    "support_retest_count": "분봉상 특정 핵심 가격대(라운드피겨 등)를 최소 2~3회 이상 하향 돌파하지 않고 꼬리를 달며 지지.",
+    "volume_at_resistance": "분봉상 전고점 저항선 도달 시 직전 5분봉 대비 거래량이 200% 이상 증가하며 돌파."
+  },
+  "qualitative_filters": {
+    "order_book_depth": "분봉 지지선 부근에서 매수 호가창에 받쳐지는 물량과 시장가 매수 체결의 연속성 확인.",
+    "market_regime_adaptation": "지수가 급락하는 시간대에는 분봉 지지선이 쉽게 깨질 수 있으므로 지수 분봉과 동기화하여 관찰."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "분봉상 2~3회 지지가 명확히 확인되고 거래대금이 실려 있는 종목을 발굴할 때",
+      "action_or_mindset": "당일 분봉 단타 매매 후보로 지정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "분봉 N자형 눌림목 지지 확인 시 또는 전고점 돌파 시",
+      "action_or_mindset": "분봉 지지선을 손절 기준으로 잡고 2분할 매수한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "오전에 다져놓은 분봉 최저점 지지선을 거래량을 실어 하향 이탈할 경우",
+      "action_or_mindset": "즉시 기계적 손절을 집행한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "1분봉의 어지러운 틱 등락에 마음이 흔들릴 때",
+      "action_or_mindset": "3분봉, 5분봉의 굵은 뼈대와 지지선을 신뢰하며 호흡을 가다듬는다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "분봉 패턴 연구 시",
+      "action_or_mindset": "오전 N자형 돌파 패턴의 당일 고가 갱신 확률과 평균 익절률을 1년 치 분봉 데이터로 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "유진로봇",
+      "role": "분봉 라운드피겨 지지 모범사례",
+      "context": "분봉상 9,000원 라운드피겨를 명확히 지지해 주며 강한 N자형 반등 슈팅을 만든 사례"
+    },
+    {
+      "ticker_name": "한미반도체",
+      "role": "분봉 계단식 우상향 사례",
+      "context": "조정이 얕고 분봉상 지지선을 차곡차곡 높여가며 상승한 사례"
+    }
+  ]
+}

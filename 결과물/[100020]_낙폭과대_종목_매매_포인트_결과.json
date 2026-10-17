@@ -1,0 +1,72 @@
+{
+  "video_id": "100020",
+  "video_title": "낙폭과대 종목 매매 포인트",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "사법 리스크가 아닌 정상적인 시장 투매나 과도한 가격 왜곡으로 급락한 종목의 기술적 반등(낙폭과대) 공략법: (1) 1차로 바닥을 형성한 지지 가격대(예: 7,500원)를 관찰, (2) 세력이 그 저점을 '의도적으로 살짝 깨서(언더슈팅)' 개미들의 투매를 유발한 뒤 V자로 끌어올리는 '깨고 반등' 자리 포착, (3) 반등 시 욕심부리지 않고 VI 1차 또는 +5~10% 구간에서 확정 익절하는 단기 전략.",
+    "key_analogies": [
+      {
+        "original_metaphor": "바닥에 던져진 고무공 비유",
+        "intended_meaning": "공을 높은 곳에서 바닥으로 강하게 내리칠수록 튀어 오르는 반발력이 크듯, 급격한 투매일수록 날카로운 V자 반등이 나옴."
+      },
+      {
+        "original_metaphor": "낚싯바늘 챔질 비유",
+        "intended_meaning": "저점을 살짝 깨며 공포를 유발할 때 개미들의 손절 물량을 세력이 아래에서 낚아채듯 받아먹고 주가를 급반등시키는 기술."
+      }
+    ],
+    "psychological_warnings": "낙폭과대 매매는 추세를 보고 길게 끌고 가는 매매가 아님. 하락 추세 중의 일시적 기술적 반등이므로, 과거의 화려했던 주가로 돌아갈 것이라는 환상을 버리고 정해진 반등 목표치에서 칼같이 챙겨 나와야 함."
+  },
+  "quantitative_filters": {
+    "oversold_bounce_level": "고점 대비 30~50% 이상 단기 폭락 후 1차 지지선 형성.",
+    "undershoot_recovery": "1차 저점을 2~3% 살짝 이탈했다가 당일 또는 익일 5분봉상 강력한 거래대금과 함께 재돌파.",
+    "target_take_profit": "1차 VI(지수 대비 +5~7%) 또는 라운드피겨 저항선에서 전량 분할 매도."
+  },
+  "qualitative_filters": {
+    "non_fatal_selloff": "상장폐지나 거래정지 사유가 없는 수급적 꼬임 및 지수 연동 투매 확인.",
+    "market_regime_adaptation": "시장 전체가 공포에 휩싸여 투매가 절정에 달했을 때 낙폭과대 반등의 성공률이 가장 높음."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "단기 급락 후 1차 저점을 다지고 있는 과매도 종목을 발견했을 때",
+      "action_or_mindset": "저점 가격대를 표시해두고 언더슈팅 발생 여부를 관찰한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "1차 저점을 깼다가 거래량을 동반하며 V자로 저점을 다시 회복할 때",
+      "action_or_mindset": "'깨고 반등' 타점으로 판단하고 2분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "회복했던 저점을 재차 깨고 내려앉을 경우",
+      "action_or_mindset": "추가 폭락 위험이 있으므로 지체 없이 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "반등이 시작될 때 더 갈 것이라는 욕심이 생길 때",
+      "action_or_mindset": "낙폭과대는 게릴라전임을 명심하고 5~10% 수익을 주면 감사히 챙긴다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "낙폭과대 통계 수립 시",
+      "action_or_mindset": "1차 저점 이탈 후 회복 시 반등 성공률과 평균 반등 폭을 수치화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "백광산업",
+      "role": "낙폭과대 저점 이탈 반등 실전사례",
+      "context": "투매 후 7,500원 저점을 형성했다가 살짝 깨고 8,000원 및 9,000원까지 강한 기술적 반등을 준 실전 복기"
+    },
+    {
+      "ticker_name": "이수화학",
+      "role": "과매도 반등 사례",
+      "context": "급락 후 특정 가격대에서 꼬리를 달고 기술적 반등을 준 사례"
+    }
+  ]
+}

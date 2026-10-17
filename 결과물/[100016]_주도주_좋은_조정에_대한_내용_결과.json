@@ -1,0 +1,72 @@
+{
+  "video_id": "100016",
+  "video_title": "주도주 좋은 조정에 대한 내용",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "주도주가 시세를 분출한 뒤 하락할 때 '건강하고 좋은 조정'과 '세력 이탈형 폭락'을 구분하는 것이 트레이딩의 핵심임. 좋은 조정의 3대 조건: (1) 주가가 음봉으로 떨어질 때 거래량이 직전 양봉 대비 1/3 이하로 급감함, (2) 전고점 저항이었던 가격대를 지지선으로 전환하여 사수함, (3) 종목 자체 악재가 아닌 시장 지수 조정에 따른 동반 눌림임. 이 자리는 공포가 아니라 최고의 매수 기회라는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "활시위를 뒤로 당기는 동작 비유",
+        "intended_meaning": "화살을 더 멀리 날려 보내기 위해 활시위를 뒤로 당기듯, 주도주의 좋은 조정은 다음 신고가를 쏘기 위한 준비 동작임."
+      },
+      {
+        "original_metaphor": "건강한 다이어트 비유",
+        "intended_meaning": "몸에 해로운 근육이 빠지는 게 아니라, 단기 과열로 낀 군살(단기 개미 차익 매물)만 쏙 빼내는 건강한 체질 개선."
+      }
+    ],
+    "psychological_warnings": "주가가 떨어질 때의 음봉 캔들에 겁을 먹고 도망치지 말 것. 거래량이 터지지 않는 주도주의 건강한 조정은 세력이 나간 것이 아니라 개미의 물량을 털어내기 위한 밥상 차리기임."
+  },
+  "quantitative_filters": {
+    "volume_drop_ratio": "조정일의 거래대금이 직전 돌파/상승일 거래대금 대비 25~35% 이하로 급감.",
+    "support_level_hold": "돌파했던 직전 전고점 라인 또는 20일 이동평균선 가격대를 종가상 훼손하지 않음.",
+    "correction_depth": "고점 대비 하락폭이 15~25% 내외로 제한적인 눌림."
+  },
+  "qualitative_filters": {
+    "innocent_pullback": "기업 고유의 악재가 전무하며, 미 증시 하락이나 지수 투매로 인해 억울하게 동반 밀린 상태.",
+    "market_regime_adaptation": "지수가 진정되는 순간 가장 먼저 거래량이 붙으며 양봉으로 전환되는 종목이 차기 랠리의 주도주임."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "신고가 주도주 중 거래량이 마르며 전고점 지지선 부근으로 내려온 종목을 스크리닝할 때",
+      "action_or_mindset": "좋은 조정 종목으로 분류하고 집중 관찰 대상에 올린다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "전고점 지지선 및 20일선에서 하락이 멈추고 꼬리를 달 때",
+      "action_or_mindset": "2~3분할 매수로 눌림목을 선취매한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "조정 중 대량 거래대금이 터지며 주요 지지선을 장대음봉으로 이탈할 경우",
+      "action_or_mindset": "세력 이탈로 판단하고 즉시 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "주가가 음봉으로 떨어질 때 공포심이 엄습할 때",
+      "action_or_mindset": "거래대금 급감 여부를 먼저 확인하고 S급 종목의 세일을 반갑게 맞이한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "조정 패턴 분석 시",
+      "action_or_mindset": "거래대금 감소 비율별(30% 이하, 50% 이하 등) 지지 반등 성공률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "이수페타시스",
+      "role": "좋은 조정의 대표 사례",
+      "context": "상승 후 거래량이 급감하며 전고점 라인을 지켜낸 뒤 재차 폭등한 사례"
+    },
+    {
+      "ticker_name": "레이크머티리얼즈",
+      "role": "주도주 건전한 눌림목 사례",
+      "context": "강력한 주도 테마 내에서 20일선 지지를 받으며 좋은 조정을 완성한 종목"
+    }
+  ]
+}

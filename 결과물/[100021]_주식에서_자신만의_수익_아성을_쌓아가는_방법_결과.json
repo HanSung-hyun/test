@@ -1,0 +1,67 @@
+{
+  "video_id": "100021",
+  "video_title": "주식에서 자신만의 수익 아성을 쌓아가는 방법",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "주식 시장에서 장기적으로 부를 일구는 유일한 길은 '자신만의 단단한 수익 아성(기초 요새)'을 쌓는 것임. 온갖 매매 기법(돌파, 눌림, 종가베팅, 시초가, 낙주)을 다 잘하려다간 본진이 무너짐. 나에게 가장 잘 맞는 확실한 1~2개 주력 무기(A, B 기법)로 먼저 튼튼한 수익 아성을 구축하고, 새로운 C 기법은 본진의 수익금을 담보로 소액 연구용으로만 검증하며 점진적으로 확장해 나가야 함.",
+    "key_analogies": [
+      {
+        "original_metaphor": "중세 성채(아성) 구축 비유",
+        "intended_meaning": "튼튼한 본성(A, B 기법)을 먼저 견고하게 쌓아 외부 침략(손실)을 막아내고, 그 안에서 나오는 식량(수익금)으로 외곽 영토(C 기법)를 하나씩 넓혀가는 전략."
+      },
+      {
+        "original_metaphor": "뿌리 깊은 나무 비유",
+        "intended_meaning": "뿌리가 깊고 단단한 줄기가 서 있어야(주력 기법) 가지를 뻗을 수 있지, 뿌리도 없는 상태에서 온갖 가지만 치면 바람 한 번에 쓰러짐."
+      }
+    ],
+    "psychological_warnings": "남들이 이 기법으로 벌었다, 저 기법으로 벌었다고 해서 이리저리 기웃거리지 말 것. 모든 것을 다 잘하려는 욕심이 파멸을 부름. 초보 시절 기준도 안 섰는데 비중 배팅을 남발하면 동전 던지기로 계좌 목숨을 거는 꼴임."
+  },
+  "quantitative_filters": {
+    "core_strategy_dominance": "전체 매매 자금의 80% 이상을 승률 7할 이상의 주력 A, B 기법에만 집중 배분.",
+    "research_budget_cap": "신규 연구 중인 C, D 기법은 1회당 정규 비중의 1/10 이하(총자산의 3~5% 미만) 소액으로만 테스트.",
+    "track_record_threshold": "신규 기법은 최소 3~6개월간 100회 이상의 실전 데이터로 손익비 2.0 이상 검증 전까지 정규 비중 투입 금지."
+  },
+  "qualitative_filters": {
+    "personality_fit_audit": "기법이 본인의 심리적 성향(직장인, 데이트레이더, 인내심 강도)과 완벽히 부합하는지 정기 점검.",
+    "market_regime_adaptation": "장이 좋을 때는 주력 기법으로 아성을 높이고, 장이 나쁠 때는 연구 기법을 멈추고 본진 요새 안에서 현금을 사수."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "검증되지 않은 새로운 기법이나 타인의 추천 매매 방식을 접했을 때",
+      "action_or_mindset": "실전 주력 계좌 투입을 금지하고 별도 연구용 소액 포트로 분리한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "나의 주력 무기(A, B 기법) 조건이 시장에 등장했을 때",
+      "action_or_mindset": "자신감을 갖고 정규 비중으로 일관되게 집행한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "연구용 기법에서 연속 손실이 발생할 경우",
+      "action_or_mindset": "주력 기법의 누적 수익금을 갉아먹지 않도록 즉각 연구 매매를 중단하고 원인을 재분석한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "모든 매매를 다 잘하고 싶은 욕심이 들 때",
+      "action_or_mindset": "단 하나의 칼을 깊고 날카롭게 벼린 장인이 시장에서 끝까지 살아남는다는 진리를 되새긴다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "분기별 트레이딩 감사 시",
+      "action_or_mindset": "기법별(A, B, C) 승률과 누적 손익을 대조하여 비효율적인 매매를 과감히 퇴출하고 주력 기법을 강화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "시장 실전 매매 전반",
+      "role": "수익 아성 구축 원리",
+      "context": "기준이 확립된 주력 기법으로 안전하게 자산을 불려 나가는 계좌 성장 철학"
+    }
+  ]
+}

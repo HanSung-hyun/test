@@ -1,0 +1,67 @@
+{
+  "video_id": "100014",
+  "video_title": "대다수의 개인이 손실보는 이유 ⧸ 고쳐야하는 습관",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "개인 투자자가 시장에서 지속적인 손실을 보고 깡통을 차는 근본 원인은 기법의 부재가 아니라 4대 악습(뇌동 추격매수, 손절 거부 및 방치, 1등 주도주 기피 후 3~4등 잡주 매수, 검증되지 않은 자리 비중 몰빵) 때문임. 이 4가지 파멸의 고리를 끊어내지 못하면 어떤 황금 기법도 밑 빠진 독에 물 붓기가 됨.",
+    "key_analogies": [
+      {
+        "original_metaphor": "밑 빠진 독에 물 붓기 비유",
+        "intended_meaning": "매매 습관의 구멍(손절 거부, 몰빵)을 메우지 않으면 아무리 열심히 수익을 벌어 넣어도 한 번의 실수로 모든 자산이 바닥으로 새어나감."
+      },
+      {
+        "original_metaphor": "브레이크 고장 난 슈퍼카 비유",
+        "intended_meaning": "비중 배팅이라는 강력한 엔진(슈퍼카)만 달고 손절이라는 브레이크를 밟지 못하면 결국 절벽 아래로 추락해 사망함."
+      }
+    ],
+    "psychological_warnings": "수익을 내는 법을 배우기 전에 손실을 통제하는 법부터 배워야 함. 손절을 두려워하여 물타기를 하거나, 1등주가 무서워 싸 보이는 잡주로 도망치는 행위는 계좌를 서서히 독살하는 치명적 착각임."
+  },
+  "quantitative_filters": {
+    "max_loss_limit": "1회 거래당 계좌 총 자산 대비 최대 손실률 1.5~2.0% 이내로 엄격 제한.",
+    "single_stock_allocation": "단일 종목 최대 투자 비중은 총자산의 25~30% 이내(몰빵 절대 금지).",
+    "leader_rank_filter": "테마 내 등락률 및 거래대금 순위 1~2등 이외의 3~4등주는 스크리닝에서 자동 탈락."
+  },
+  "qualitative_filters": {
+    "discipline_checklist": "매수 버튼을 누르기 직전 (1) 1등주인가? (2) 손절선이 정해졌는가? (3) 뇌동 추격이 아닌가? 3단계 자가 검증 통과 필수.",
+    "market_regime_adaptation": "하락장일수록 개인들의 물타기와 뇌동매매가 극에 달하므로, 현금 비중 50% 이상 유지하며 철저한 보수적 대응."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "3~4등 후발주나 찌라시성 잡주가 싸 보여서 매수 유혹이 들 때",
+      "action_or_mindset": "스크리닝 대상에서 즉각 삭제하고 1등 주도주만 바라본다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "매수 진입 시",
+      "action_or_mindset": "진입과 동시에 HTS 자동 스탑로스를 필수 설정하여 기계적 원칙을 강제한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "주가가 손절선을 하향 돌파할 때",
+      "action_or_mindset": "물타기를 절대 금지하고 사전 약박한 손절선에서 1원도 타협 없이 로스컷한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "손실이 발생했을 때 화가 나거나 본전 심리가 발동할 때",
+      "action_or_mindset": "HTS를 끄고 30분간 산책하며 뇌동매매 충동을 식힌다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "매월 말 계좌 복기 시",
+      "action_or_mindset": "손실 거래 중 4대 악습(추격, 손절거부, 잡주, 몰빵)에 해당하는 비율을 산출하여 피드백한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "시장 잡주 및 테마 후발주",
+      "role": "개인 투자자 파멸의 함정",
+      "context": "1등주가 무서워 싼 맛에 샀다가 반등도 없이 끝없이 흘러내리는 전형적인 손실 유발 종목들"
+    }
+  ]
+}

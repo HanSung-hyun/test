@@ -1,0 +1,72 @@
+{
+  "video_id": "100017",
+  "video_title": "돌파 이전 차트의 모습",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "역사적 신고가나 강력한 전고점 저항선을 뚫어버리는 종목들은 돌파 당일 아침에 불쑥 튀어나오는 것이 아니라, 수일 전부터 전고점 저항선 바로 아래에 캔들을 '찰떡처럼 찰딱 붙여놓고' 저점을 점진적으로 높여가는(어센딩 트라이앵글) 명확한 사전 차트 징후를 보임. 돌파 당일 추격하는 것보다 돌파 직전 매물 흡수 차트를 미리 찾아내는 것이 트레이더의 핵심 역량임.",
+    "key_analogies": [
+      {
+        "original_metaphor": "문턱 앞에 바짝 다가선 형상 비유",
+        "intended_meaning": "문(저항선)을 박차고 열기 직전에 문 바로 앞에 서서 숨을 고르며 문고리를 잡고 있는 형상."
+      },
+      {
+        "original_metaphor": "찰떡처럼 찰딱 붙어있는 캔들 비유",
+        "intended_meaning": "저항선에 부딪히면 밑으로 튕겨 나가는 게 일반적인데, 밀리지 않고 찰떡처럼 저항선에 딱 달라붙어 매물을 갉아먹는 모습."
+      }
+    ],
+    "psychological_warnings": "돌파가 터지고 난 뒤 뉴스에 흥분하여 상투를 잡지 말 것. 차트가 저항선 아래에서 조용히 매물을 소화하고 있는 준비 기간에 차분하게 관심을 가져야 가장 유리한 평단가를 확보할 수 있음."
+  },
+  "quantitative_filters": {
+    "resistance_cling": "일봉 종가가 전고점 저항선 대비 1~2% 이내로 바짝 밀착하여 마감.",
+    "higher_lows": "최근 3~5일간 저점을 계속해서 높여가는 우상향 수렴 추세.",
+    "volume_expansion_at_touch": "저항선에 붙일 때마다 거래량이 점진적으로 늘어나며 매물을 흡수하는 양상."
+  },
+  "qualitative_filters": {
+    "catalyst_waiting": "세력이 차트를 전고점에 붙여놓고 뉴스나 공시 등 방아쇠(트리거)를 당길 타이밍을 기다리는 상태.",
+    "market_regime_adaptation": "지수가 횡보하거나 반등할 때 가장 탄력 있게 상단을 뚫고 날아감."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "전고점 저항선에 종가를 바짝 붙여두고 저점을 높이는 차트를 발견했을 때",
+      "action_or_mindset": "돌파 임박 1순위 관심종목으로 지정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "돌파 직전 지지선 매수 또는 당일 시초 갭 상승과 함께 저항선을 뚫을 때",
+      "action_or_mindset": "2분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "저항선 돌파에 실패하고 저점을 깨는 음봉이 발생할 때",
+      "action_or_mindset": "미련 없이 손절하여 박스 하단까지의 조정을 피한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "이미 터진 돌파주에 눈길이 갈 때",
+      "action_or_mindset": "터진 종목보다 터지기 직전 달라붙은 종목을 발굴하는 것이 진정한 실력임을 되새긴다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "돌파 전조 패턴 연구 시",
+      "action_or_mindset": "저항선 밀착 기간(1일~3일)과 돌파 당일 장대양봉 출현 확률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "백광산업",
+      "role": "돌파 직전 전고점 밀착 사례",
+      "context": "전고점 바로 밑에서 며칠간 캔들을 붙여두고 매물을 소화한 뒤 신고가 돌파를 분출한 사례"
+    },
+    {
+      "ticker_name": "이수페타시스",
+      "role": "돌파 전조 차트 사례",
+      "context": "저점을 지속적으로 높이며 저항선에 찰딱 붙어있다 돌파한 모범 차트"
+    }
+  ]
+}

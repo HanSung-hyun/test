@@ -1,0 +1,72 @@
+{
+  "video_id": "100019",
+  "video_title": "백광산업 오후 투매에 대한 포인트들 + 이수화학",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "장중 돌발적인 급락이나 하한가 투매가 발생했을 때 '절대 매수하면 안 되는 치명적 악재'와 '기술적 반등을 노려볼 만한 악재'의 엄격한 구분. 백광산업처럼 '검찰 압수수색, 횡령/배임, 거래정지 및 상폐 위험'이 있는 사법 리스크는 낙폭과대라도 절대 건드리면 안 되며, 단순 지수 폭락이나 루머성 찌라시 투매만이 반등 매매의 대상임.",
+    "key_analogies": [
+      {
+        "original_metaphor": "불타 무너지는 집 비유",
+        "intended_meaning": "집안에 금괴(차트/실적)가 있어도 기둥이 불타 무너지고 있으면(횡령/배임 압수수색) 들어가면 타 죽으므로 절대 들어가선 안 됨."
+      },
+      {
+        "original_metaphor": "독이 든 사과 비유",
+        "intended_meaning": "아무리 맛있어 보이고 싸게 할인된 사과(-30% 하한가)라도 독(사법 리스크)이 들어있으면 먹는 순간 목숨을 잃음."
+      }
+    ],
+    "psychological_warnings": "-25%, -30% 폭락했다고 해서 '싸다'고 착각하지 말 것. 횡령/배임/사법 리스크는 거래정지로 이어져 투자금 전체가 묶이거나 증발할 수 있으므로, 바닥이라고 예단하고 함부로 손을 대면 안 됨."
+  },
+  "quantitative_filters": {
+    "judicial_risk_blacklist": "뉴스에 '검찰', '압수수색', '횡령', '배임', '배임수재', '분식회계' 키워드가 포함된 종목은 하한가 도달 시에도 매수 100% 금지.",
+    "exit_spread_threshold": "보유 종목에 사법 리스크 발생 시 손실률 불문 시장가 전량 탈출.",
+    "bounce_target_limit": "정상적인 낙폭과대 반등이라도 전고점 복귀를 노리지 말고 VI 1차(5~7%) 수준에서 짧게 청산."
+  },
+  "qualitative_filters": {
+    "catalyst_toxicity_check": "악재의 성격이 일시적 이슈인가, 아니면 상장 유지 자격을 흔드는 치명적 암세포인가를 냉정하게 판별.",
+    "market_regime_adaptation": "주도 테마였던 종목이 사법 악재로 무너지면 해당 섹터 전체에 심리적 타격을 주므로 관련주 매매도 동반 주의."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "검찰 압수수색이나 횡령/배임 뉴스로 오후장 투매가 쏟아지는 종목을 마주할 때",
+      "action_or_mindset": "아무리 낙폭이 커도 매매 대상에서 전면 배제한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "보유 중인 종목에 사법 리스크 뉴스가 돌발 발생했을 때",
+      "action_or_mindset": "손익 계산을 멈추고 즉각 시장가 전량 매도로 탈출한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "하한가가 풀리며 반등하는 것처럼 보일 때",
+      "action_or_mindset": "설거지 파동에 낚이지 말고 절대 재진입하지 않는다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "하한가에서 반등하는 것을 보며 아쉬움이 들 때",
+      "action_or_mindset": "독이 든 사과를 먹지 않고 목숨을 건진 것에 감사하며 원칙을 지킨다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "사법 리스크 종목 추적 시",
+      "action_or_mindset": "압수수색 및 횡령 발생 종목의 향후 거래정지 비율과 최종 결말 데이터를 아카이빙한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "백광산업",
+      "role": "치명적 사법 악재 투매 사례",
+      "context": "오후 검찰 압수수색 뉴스로 급작스러운 하한가 직행, 절대 매수하면 안 되는 독이 든 사과 사례"
+    },
+    {
+      "ticker_name": "이수화학",
+      "role": "인적분할 재상장 변동성 비교군",
+      "context": "분할 후 재상장 시초가 등락 및 변동성 대응 흐름 비교"
+    }
+  ]
+}
