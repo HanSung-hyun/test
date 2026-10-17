@@ -1,0 +1,72 @@
+{
+  "video_id": "100005",
+  "video_title": "어렵지 않은 가장 기본적인 스윙매매 방법",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "장중 실시간 대응이 어려운 직장인에게 가장 적합한 매매는, 거래대금이 터진 강력한 기준봉 이후 20일선(생명선) 및 전저점 지지 라인까지 눌려 거래량이 마른 구간에서 느긋하게 2~3분할로 모아가서 5~10% 이상 반등 시 챙기는 정석 스윙 매매라는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "낚시꾼의 찌 비유",
+        "intended_meaning": "물고기를 쫓아 뛰어다니지 않고 좋은 포인트(20일선/지지선)에 낚싯대를 드리우고 입질(반등)이 올 때까지 기다리는 스윙의 미학."
+      },
+      {
+        "original_metaphor": "숨 고르기 비유",
+        "intended_meaning": "100미터 전력 질주한 선수가 벤치에 앉아 숨을 고르듯, 급등한 주가가 20일선까지 조정을 받으며 거래량을 줄이는 건강한 눌림목."
+      }
+    ],
+    "psychological_warnings": "하루 만에 상한가를 먹으려는 욕심으로 급등주를 추격하지 말고, 손익비가 확정된 눌림목에서 분할 매수로 심리적 안정감을 확보해야 직장 생활과 매매를 병행할 수 있음."
+  },
+  "quantitative_filters": {
+    "prior_anchor_surge": "최근 1~2개월 내 거래대금 1,000억 이상 동반한 20% 이상 장대양봉 또는 상한가 이력 보유.",
+    "swing_pullback_level": "고점 대비 20~35% 조정 후 20일선(또는 60일선) 및 직전 박스 상단/전고점 지지선에 안착.",
+    "volume_contraction": "눌림 조정 구간의 일일 거래대금이 기준봉 당일 거래대금의 10~20% 이하로 급감."
+  },
+  "qualitative_filters": {
+    "theme_longevity": "일회성 테마가 아닌 중장기 정책, 실적 턴어라운드, 산업 트렌드가 살아있는 섹터 대장주.",
+    "market_regime_adaptation": "지수 과매도 구간(코스닥 RSI 침체, 지수 20일선 이탈 후 투매)과 종목의 20일선 도달 타이밍이 일치할 때 공격적 비중 확대."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "최근 1~2개월 내 1,000억 이상 대금이 터진 강력한 기준봉 발생 종목 중 20일선 부근으로 건강하게 눌린 종목을 발굴할 때",
+      "action_or_mindset": "거래대금이 급감하며 20일선에 안착한 종목만 선별한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "20일선 도달 시 및 지지선 부근에서",
+      "action_or_mindset": "2~3분할 매수로 진입하고 5~10% 이상 반등 시 분할 매도한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "20일선을 명확히 깨고 거래량이 터지며 하향 이탈할 경우",
+      "action_or_mindset": "손절 기준선을 엄격히 집행하여 추가 하락을 방어한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "호가창을 보지 못해 불안감이 엄습할 때",
+      "action_or_mindset": "통계적 지지선의 반등 확률을 신뢰하며 시간에 투자한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "스윙 통계 수립 시",
+      "action_or_mindset": "20일선 첫 번째 터치 시 반등 성공률과 2번째/3번째 터치 시 반등 성공률을 비교 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "삼아알미늄",
+      "role": "20일선 스윙 우상향 모범주",
+      "context": "기준봉 이후 20일선 지지를 받으며 계단식으로 우상향한 사례"
+    },
+    {
+      "ticker_name": "포스코인터내셔널",
+      "role": "대형 실적주 스윙 사례",
+      "context": "거래대금 유입 후 20일선 눌림에서 안정적인 반등을 준 사례"
+    }
+  ]
+}

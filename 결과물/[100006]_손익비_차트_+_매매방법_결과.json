@@ -1,0 +1,72 @@
+{
+  "video_id": "100006",
+  "video_title": "손익비 차트 + 매매방법",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "주식 매매의 핵심은 승률이 아니라 손익비(Risk/Reward Ratio)에 있음. 잃을 때는 -2~3%로 짧게 끊고 벌 때는 +10~20% 이상 크게 먹을 수 있는 '손익비 차트 자리(손절선 바로 위 지지선)'에서만 진입해야 장기적으로 계좌가 우상향한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "카지노 딜러 vs 똑똑한 갬블러 비유",
+        "intended_meaning": "100원을 걸어 잃으면 10원, 따면 50원을 버는 절대적으로 유리한 판(손익비 명확한 자리)에서만 배팅하는 원리."
+      },
+      {
+        "original_metaphor": "절벽 끝 안전로프 비유",
+        "intended_meaning": "손절선이라는 안전로프를 등 뒤에 바짝 묶어두고 매수하면 떨어져도 로프 길이만큼(-2%)만 다치고, 위로 올라가면 탁 트인 하늘(+15%)을 누릴 수 있음."
+      }
+    ],
+    "psychological_warnings": "승률 80%에 집착하다가 한 번 물렸을 때 -30% 처맞아 계좌가 깡통 차는 전형적인 개미의 악순환을 경계할 것. 50% 승률이라도 손익비가 1:3 이상이면 계좌는 무조건 불어남."
+  },
+  "quantitative_filters": {
+    "risk_reward_ratio": "예상 손실폭 대비 예상 수익폭이 최소 1:3 이상 (손절선 -2~3% 이내, 1차 목표가 +8~12% 이상).",
+    "proximity_to_support": "주요 지지선(전고점, 라운드피겨, 이평선)과의 이격도가 1~2% 이내로 초근접한 자리.",
+    "downside_limit": "손절 라인이 분봉상 명확한 저점/지지선으로 객관화될 수 있는 차트 위치."
+  },
+  "qualitative_filters": {
+    "market_regime_adaptation": "약세장일수록 손익비가 1:4 이상 나오는 타이트한 지지선 근접 매매만 고집하고, 돌파 추격 매수는 전면 금지.",
+    "support_resilience": "지수가 흔들려도 특정 가격대를 꼬리 달고 사수해 주는 종목의 지지 복원력 확인."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "손익비 차트 종목을 스크리닝할 때",
+      "action_or_mindset": "지지선과의 이격이 벌어져 손절폭이 -5% 이상 나오는 종목을 배제하고, 지지선 바로 위(손절 -2~3% 이내) 종목만 선별한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "명확한 지지선 바로 위에서",
+      "action_or_mindset": "1차 매수하고, 지지선 이탈 시 미련 없이 즉각 기계적 손절을 집행한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "지지선 붕괴 시",
+      "action_or_mindset": "물타기 절대 금지, 사전에 정한 손절가 터치 시 1원도 타협 없이 로스컷을 실행한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "손절이 발생했을 때",
+      "action_or_mindset": "손절은 실패가 아니라 손익비 비즈니스를 영위하기 위한 당연한 '가게 임대료(비용)'로 받아들인다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "계좌 복기 시",
+      "action_or_mindset": "최근 100회 매매의 평균 손익비(평균 수익금 / 평균 손실금)를 계산하여 2.5 이상으로 유지되는지 피드백한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "유진로봇",
+      "role": "손익비 지지선 모범사례",
+      "context": "9,000원 라운드피겨 손절선 바로 위에서 손절 -2% 잡고 진입하여 +15% 이상 반등을 챙긴 손익비 매매"
+    },
+    {
+      "ticker_name": "포스코스틸리온",
+      "role": "지지선 근접 매매 사례",
+      "context": "명확한 지지선 가격대에서 손익비를 계산하고 안전하게 진입한 사례"
+    }
+  ]
+}

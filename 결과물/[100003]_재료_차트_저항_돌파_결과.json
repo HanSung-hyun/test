@@ -1,0 +1,72 @@
+{
+  "video_id": "100003",
+  "video_title": "재료,차트,저항, 돌파",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "저항은 과거 거래가 집중되어 형성된 매물의 벽이며, 이를 뚫어내는 돌파는 개인이 할 수 없고 오직 세력의 막대한 돈(거래대금)과 재료가 결합되어야만 가능함. 1돌파/2돌파보다 3돌파/4돌파에서 저항 매물이 소화되어 가장 강력한 시세가 분출한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "성벽을 여러 번 두드리는 망치 비유",
+        "intended_meaning": "저항선을 1번, 2번 칠 때는 매물벽에 막히지만, 3번 4번 두드릴수록 성벽에 균열이 생기고 매물이 소화되어 결국 시원하게 뚫림."
+      },
+      {
+        "original_metaphor": "개미의 손과 세력의 포크레인 비유",
+        "intended_meaning": "개인은 저항선을 넘길 힘이 없으나, 세력이 재료를 붙이고 포크레인처럼 매물대를 시장가로 쓸어 담아 돌파를 완성함."
+      }
+    ],
+    "psychological_warnings": "저항선을 1~2번째 돌파할 때 섣부르게 추격 매수하면 윗꼬리에 물리기 십상임. 반드시 3~4번째 돌파 자리나 저항 돌파 후 지지 확인 시점에 진입해야 함."
+  },
+  "quantitative_filters": {
+    "breakout_count": "동일 저항선(고점/박스 상단)을 최소 3~4회 이상 지속적으로 두드린 차트 위치.",
+    "volume_at_breakout": "돌파 당일 거래대금이 직전 저항 터치 당시 거래대금을 압도적으로 갱신(1.5~2배 이상).",
+    "support_confirmation": "돌파 이후 과거 저항이었던 가격대가 새로운 지지선으로 전환되는 눌림 확인."
+  },
+  "qualitative_filters": {
+    "catalyst_alignment": "차트가 3~4돌파 자리를 완성해둔 상태에서 강력한 당일 모멘텀/뉴스가 결합될 때 시세 폭발.",
+    "market_regime_adaptation": "지수 상승기에는 돌파 직후 추격 매수도 유효하나, 횡보/하락장에서는 돌파 후 저항선 지지 확인(되돌림) 자리에서 매수."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "동일 가격대 저항을 3회 이상 두드린 종목 중 재료가 살아있는 종목을 스크리닝할 때",
+      "action_or_mindset": "1~2회 초반 돌파주는 관망하고 3~4돌파 임박 종목으로 압축한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "전고점 저항 라인을 대량 거래대금으로 뚫어내는 시점 또는 돌파 후 지지받는 자리에 올 때",
+      "action_or_mindset": "2~3분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "돌파 후 지지선으로 작용해야 할 전고점 라인을 거래량을 실어 하향 이탈할 경우",
+      "action_or_mindset": "즉각 손절하여 계좌 손실을 제한한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "1~2돌파 실패를 보며 실망감이 들 때",
+      "action_or_mindset": "세력이 매물을 소화하며 에너지를 모으는 3~4돌파 구간을 인내심 있게 기다린다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "돌파 백테스팅 데이터 수립 시",
+      "action_or_mindset": "저항 터치 횟수별(1회, 2회, 3회, 4회 이상) 돌파 성공 확률과 당일 거래대금 배수 간의 상관관계를 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "미래반도체",
+      "role": "저항 돌파 모범사례",
+      "context": "앞 매물대 저항을 거래대금으로 뚫어내며 상한가 직행한 사례"
+    },
+    {
+      "ticker_name": "한미반도체",
+      "role": "3돌파 4돌파 신고가 사례",
+      "context": "전고점 저항을 여러 번 두드린 뒤 24,500원을 뚫고 신고가로 날아간 주도주"
+    }
+  ]
+}

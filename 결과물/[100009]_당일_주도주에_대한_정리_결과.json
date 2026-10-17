@@ -1,0 +1,77 @@
+{
+  "video_id": "100009",
+  "video_title": "당일 주도주에 대한 정리",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "성공적인 데이트레이딩의 핵심은 종목을 많이 아는 것이 아니라 '당일 주도주로 압축'하는 데 있음. 매매 종목을 압축하면 매매 빈도가 줄어들고 자연스럽게 뇌동매매가 차단되며, 당일 가장 강한 대장주(거래대금 수천억, 신고가, 주도 테마)에만 비중을 실어 안전하고 큰 수익을 달성할 수 있다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "돋보기로 햇빛 모으기 비유",
+        "intended_meaning": "투자 자금과 집중력을 당일 최강 주도주 1~2개에 모아야 폭발적인 계좌 성장이 가능함."
+      },
+      {
+        "original_metaphor": "무림의 절대고수 비유",
+        "intended_meaning": "온갖 잡기에 손대지 않고 당일 무림(시장)을 평정한 1등 대장주와만 자웅을 겨루는 원칙."
+      }
+    ],
+    "psychological_warnings": "당일 온갖 테마에서 튀어 오르는 잡주들의 현란한 등락률에 시선을 빼앗기지 말 것. 1등주가 아닌 3~4등주나 찌라시성 잡주에 손을 대는 순간 계좌는 서서히 녹아내림."
+  },
+  "quantitative_filters": {
+    "intraday_volume_dominance": "당일 정오(12시) 기준 거래대금 최소 2,000억~3,000억 원 이상 시장 최상위 랭크.",
+    "stock_selection_limit": "당일 매매 대상 종목을 최대 1~2개(S급 주도주)로 극단적 압축.",
+    "timeline_rule_5days": "기준봉 발생 후 5영업일 이내의 강력한 추세 구간 종목으로 제한."
+  },
+  "qualitative_filters": {
+    "sector_leadership": "당일 시장 지수와 수급을 주도하는 메인 섹터의 1~2등 대장주.",
+    "market_regime_adaptation": "시장에 뚜렷한 주도 테마가 없는 난장판 날에는 억지로 종목을 찾지 말고 현금 100%를 쥐고 관망하는 쉼의 전략 채택."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "실시간 종목 조회 순위와 거래대금 상위 화면을 대조할 때",
+      "action_or_mindset": "당일 거래대금 3,000억 이상 1등 테마 대장주로 종목을 압축한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "압축된 S급 주도주의 분봉상 전고점 돌파 또는 오전 눌림목 지지 확인 시",
+      "action_or_mindset": "집중 분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "S급 주도주가 아닌 후발주(3~4등주)나 단발성 개별 재료주를 마주했을 때",
+      "action_or_mindset": "아무리 차트가 예뻐도 매매를 원천 금지한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "매매할 종목이 없어 조급증이 날 때",
+      "action_or_mindset": "매매를 안 하면 손해가 아니라 기회를 아끼는 것임을 명심하고 절제력을 유지한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "매매 효율성 검증 시",
+      "action_or_mindset": "주도주 압축 매매일과 다종목 난사 매매일의 누적 손익 및 MDD를 비교 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "한미반도체",
+      "role": "주도주 압축 선정 1순위",
+      "context": "신고가, 4천억 대금, 수급 유입으로 당일 가장 안전했던 주도주"
+    },
+    {
+      "ticker_name": "SK하이닉스",
+      "role": "섹터 지탱 기둥",
+      "context": "1년 고점 갱신하며 반도체 테마를 지탱한 맏형"
+    },
+    {
+      "ticker_name": "현대모비스",
+      "role": "전고점 저항 대형주 비교군",
+      "context": "전고점 저항을 넘지 못해 주도주 순위에서 밀린 대형주 사례"
+    }
+  ]
+}

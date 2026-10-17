@@ -1,0 +1,77 @@
+{
+  "video_id": "100008",
+  "video_title": "발전을 위한 디테일한 복기에 대한 내용",
+  "category": "실전 매매복기",
+  "core_philosophy": {
+    "main_concept": "실력 향상의 절대적인 열쇠는 매매 횟수가 아니라 '디테일한 복기'에 있음. 단순히 수익/손실 금액만 보는 것이 아니라, '내가 왜 이 자리에서 샀는가? 세력의 의도는 무엇이었는가? 시장 분위기와 테마 대장 여부는 맞았는가? 내가 놓친 악재는 없었는가?'를 차트와 호가, 뉴스와 대조하여 기록하고 뇌에 각인시키는 복기의 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "오답노트 비유",
+        "intended_meaning": "수능 1등급 수험생이 틀린 문제를 완벽하게 오답노트로 정리해 두 번 다시 안 틀리듯, 주식 트레이더도 손실 및 성공 타점을 오답노트처럼 해부해야 발전함."
+      },
+      {
+        "original_metaphor": "바둑의 복기 비유",
+        "intended_meaning": "프로 바둑 기사가 대국 후 수백 수를 처음부터 그대로 되짚으며 착수의 이유를 검증하듯, 당일 장 마감 후 분봉 체결을 하나하나 되짚는 행위."
+      }
+    ],
+    "psychological_warnings": "손실 본 날 기분 나쁘다고 HTS를 꺼버리고 술을 마시거나 도망치지 말 것. 가장 고통스러운 패배의 매매를 열어서 복기할 때 트레이더로서 가장 큰 성장이 일어남."
+  },
+  "quantitative_filters": {
+    "daily_review_count": "당일 매매한 모든 종목(성공/실패 불문) 및 당일 상한가/거래대금 상위 10개 주도주 전수 복기.",
+    "entry_exit_spread": "매수가와 매도가의 타점 오차(적정 지지선 대비 슬리피지 및 뇌동 추격 폭) 수치화.",
+    "holding_time_efficiency": "진입 후 수익 실현 또는 손절까지 걸린 시간과 자금 회전율 분석."
+  },
+  "qualitative_filters": {
+    "root_cause_analysis": "실패 매매 원인 분류(1: 뇌동 추격, 2: 3~4등 잡주 매매, 3: 지수 급락 역행, 4: 손절 지연).",
+    "market_context_replay": "매수 당시 지수 흐름, 환율, 미국 선물, 타 섹터 수급 쏠림 등 거시적 시장 상황 재구성."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "매일 장 마감 후",
+      "action_or_mindset": "당일 거래대금 상위 10종목과 상한가 종목의 일봉/분봉 차트를 HTS 관심종목에 모아 복기한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "매매 일지 작성 시",
+      "action_or_mindset": "매수 이유(재료/차트/수급), 매도 이유, 매매 당시 심리 상태를 3줄 이상 상세히 기록한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "복기 과정에서 '뇌동매매'로 판명된 실수가 2회 연속 발생할 경우",
+      "action_or_mindset": "익일 매매 비중을 50% 축소한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "복기를 마주할 때",
+      "action_or_mindset": "수익금에 우쭐대지 말고 손실금에 좌절하지 않으며, 오직 '원칙 준수 여부'만을 평가 잣대로 삼는다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "월간 단위 데이터 분석 시",
+      "action_or_mindset": "복기 일지 데이터를 누적 집계하여 본인의 최고 승률 패턴과 최악의 손실 패턴을 정량 리포트로 추출한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "한미반도체",
+      "role": "당일 주도주 복기 모범사례",
+      "context": "장중 4천억 대금과 프로그램 순매수 전환, 25,000원 돌파 타점 복기"
+    },
+    {
+      "ticker_name": "미래반도체",
+      "role": "1등주 상한가 직행 복기",
+      "context": "아침 일찍 대장으로 상한가를 갔으나 매물대 차트 특성 복기"
+    },
+    {
+      "ticker_name": "이수페타시스",
+      "role": "오후장 주도주 복기",
+      "context": "점심시간 횡보 후 오후 돌파 시 거래량 유입 패턴 복기"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "100004",
+  "video_title": "차트 박스권 해석 + 매매 응용 방법",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "박스권은 세력이 특정 가격대 사이에서 개인의 물량을 뺏고 에너지를 응축하는 매집의 공간임. 박스권 매매는 하단 지지선에서 매수하여 상단 저항선에서 매도하는 '박스권 트레이딩'과, 상단을 3~4번째 강하게 뚫을 때 추세를 타는 '박스권 돌파 매매'로 이원화하여 접근해야 한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "압축된 스프링(용수철) 비유",
+        "intended_meaning": "박스권 안에서 오랫동안 갇혀 횡보할수록 세력의 에너지가 강하게 압축되어, 뚫고 나갈 때 폭발적인 시세 분출이 일어남."
+      },
+      {
+        "original_metaphor": "탁구공의 핑퐁 비유",
+        "intended_meaning": "박스권 상단과 하단을 오가는 탁구공처럼, 하단에 오면 튕겨 오르고 상단에 오면 맞고 떨어지는 규칙성."
+      }
+    ],
+    "psychological_warnings": "박스권 중간 가격대에서 애매하게 진입하면 위아래 흔들림에 털리기 쉬움. 반드시 박스권 하단 지지선 또는 확실한 상단 돌파 시점에만 진입해야 함."
+  },
+  "quantitative_filters": {
+    "box_duration": "최소 1~3개월 이상 상단과 하단이 명확하게 2~3회 이상 왕복 형성된 박스권.",
+    "box_range": "박스권 상단과 하단의 등락폭이 15~30% 내외로 손익비가 명확한 구간.",
+    "volume_dry_at_bottom": "박스권 하단에서는 거래대금이 급감하고, 상단 돌파 시에는 평소 박스권 거래대금의 3~5배 이상 폭발."
+  },
+  "qualitative_filters": {
+    "breakout_catalyst": "박스권 상단 돌파 시 세력이 시장의 이목을 끌 수 있는 뚜렷한 명분(실적, 수주, 대기업 뉴스) 부착 여부.",
+    "market_regime_adaptation": "지수 박스권 장세에서는 박스 하단 매수/상단 매도 전략, 지수 상승 추세 전환기에는 박스 상단 돌파 매매 전략 집중."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "상단 저항과 하단 지지가 2~3회 이상 평행하게 확인된 1~3개월 박스권 종목을 스크리닝할 때",
+      "action_or_mindset": "등락폭 15~30% 내외의 명확한 박스권 종목만 선별한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "박스권 하단 지지 확인 시 또는 상단을 3~4번째 뚫는 대량 거래 돌파 시",
+      "action_or_mindset": "하단에서는 상단을 목표로 매수하고, 상단 돌파 시에는 추세 추종으로 2~3분할 매수한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "박스권 하단 지지선을 종가상 명확히 이탈할 경우",
+      "action_or_mindset": "즉각 손절하여 추가 폭락을 방지한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "박스권 횡보의 지루함에 조급증이 날 때",
+      "action_or_mindset": "에너지가 응축되는 과정임을 이해하며 기다린다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "박스권 통계 수립 시",
+      "action_or_mindset": "박스권 유지 기간과 상단 돌파 시 당일 상승률 및 후속 추세 지속 일수 간의 상관관계를 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "삼성전자",
+      "role": "박스권 돌파 대형주 사례",
+      "context": "장기 박스권을 돌파하며 반도체 섹터 전체를 견인하는 기준봉 역할"
+    },
+    {
+      "ticker_name": "SK하이닉스",
+      "role": "박스권 상단 안착 사례",
+      "context": "박스권 저항을 뚫어내고 우상향 추세를 이어가는 모범 차트"
+    }
+  ]
+}
