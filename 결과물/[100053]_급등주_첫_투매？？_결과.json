@@ -1,0 +1,67 @@
+{
+  "video_id": "100053",
+  "video_title": "급등주 첫 투매？？",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "급등주 매매에서 가장 결정적인 원칙은 '첫 번째 투매'와 '2차, 3차 투매'를 칼같이 구분하는 것임. 100% 이상 폭등 후 처음으로 나오는 첫 투매는 세력의 잔여 물량과 시장 관심 덕분에 80% 이상의 확률로 V자 반등을 주지만, 이미 반등이 한 번 나온 후 떨어지는 2차/3차 투매는 세력이 설거지를 끝내고 나가는 '지옥의 함정'임. 오직 첫 투매만 공략하고 2차 투매는 거들떠보지도 말아야 한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "첫 번째 여진 vs 붕괴된 건물 비유",
+        "intended_meaning": "첫 지진 후의 여진(첫 투매)은 건물이 버티며 반등하지만, 이미 기둥이 다 부서진 뒤의 추가 붕괴(2차 투매)에 들어가면 깔려 죽음."
+      },
+      {
+        "original_metaphor": "첫 잔의 달콤함과 바닥의 찌꺼기 비유",
+        "intended_meaning": "첫 잔(첫 투매 반등)은 달콤한 와인이지만, 잔 바닥에 남은 찌꺼기(2차 투매)를 긁어 마시려다 탈이 남."
+      }
+    ],
+    "psychological_warnings": "첫 투매에서 큰돈을 벌었다고 해서 그 맛을 잊지 못하고 2차, 3차 투매에 또 손을 대는 중독을 경계할 것. 2차 투매에 손을 대는 순간 첫 투매에서 번 돈을 전부 토해내고 원금까지 날림."
+  },
+  "quantitative_filters": {
+    "first_pullback_only": "상승 랠리 시작 후 최초로 발생하는 -15% 이상 장대음봉 투매만 대상.",
+    "rebound_wave_count": "1차 반등 파동이 이미 완료된 종목은 필터에서 100% 자동 제외.",
+    "support_level_freshness": "한 번도 터치하지 않은 신선한 1차 지지선에서만 매수."
+  },
+  "qualitative_filters": {
+    "market_focus_retention": "시장 전체의 스포트라이트가 여전히 해당 종목에 집중되어 있는 상태.",
+    "market_regime_adaptation": "악재의 성격이 테마 자체의 사망 선고가 아닌 일시적 노이즈일 때 성공률 극대화."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "급등주 투매 종목을 검색할 때",
+      "action_or_mindset": "이미 반등이 나왔던 종목은 배제하고 오직 '첫 투매' 종목만 스크리닝한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "첫 투매 종목이 주요 지지선에 도달할 때",
+      "action_or_mindset": "2분할 매수로 과감히 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "1차 반등을 챙긴 후 재차 밀리는 종목을 볼 때",
+      "action_or_mindset": "2차 투매는 절대 매수하지 않고 관심종목에서 삭제한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "또 반등이 나올 것 같은 유혹이 들 때",
+      "action_or_mindset": "첫 투매의 꿀만 빨고 자리를 뜨는 것이 프로의 생존법임을 상기한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "투매 차수별 통계 분석 시",
+      "action_or_mindset": "1차 투매 반등 성공률과 2차 투매 반등 실패율을 대조 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "초전도체 및 신규 테마주",
+      "role": "첫 투매 vs 2차 투매 비교군",
+      "context": "첫 투매에서는 큰 반등을 주었으나 2차 투매에서는 반등 없이 지하실로 처박힌 사례들"
+    }
+  ]
+}

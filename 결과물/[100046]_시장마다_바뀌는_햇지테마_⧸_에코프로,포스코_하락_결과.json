@@ -1,0 +1,72 @@
+{
+  "video_id": "100046",
+  "video_title": "시장마다 바뀌는 햇지테마 ⧸ 에코프로,포스코 하락",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "지수가 밀리고 주도주(에코프로, 포스코 등)가 하락할 때 지수와 반대로 움직이는 '헷지 테마'의 변화와 생존법. 헷지 테마는 고정되어 있지 않고 시장 국면마다 바뀜(품절주 양지사 ➔ 식량/사료 ➔ 원자재/정유 ➔ 신규 테마). 헷지 테마는 지수가 하락할 때만 반짝 시세를 주므로, 길게 들고 가지 않고 지수 반등 조짐이 보이면 즉시 전량 매도하고 나와야 한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "우산 장수와 나막신 장수 비유",
+        "intended_meaning": "비가 쏟아질 때(지수 하락)만 우산(헷지 테마)을 쓰고 비가 그치면 즉시 접어야지, 맑은 날에도 우산을 들고 있으면 짐만 됨."
+      },
+      {
+        "original_metaphor": "외줄타기 곡예 비유",
+        "intended_meaning": "헷지 테마는 지수의 방향에 따라 급등락이 극단적이므로 한 발만 헛디뎌도 폭락을 맞는 고난도 단타 영역."
+      }
+    ],
+    "psychological_warnings": "헷지 테마를 '인생 역전의 주도주'로 착각하여 장기 투자하지 말 것. 헷지 종목은 지수가 돌아서는 순간 -15%, -20% 수직 낙하하므로 철저히 데이트레이딩 게릴라전으로만 다뤄야 함."
+  },
+  "quantitative_filters": {
+    "inverse_index_correlation": "코스닥 지수 분봉이 하락할 때 완벽한 역상관관계(음의 상관계수)로 상승.",
+    "hedge_holding_time_cap": "당일 장 마감 전 무조건 전량 청산(오버나이트 절대 금지).",
+    "quick_profit_taking": "시세 분출 시 +5~8% 구간에서 미련 없이 확정 익절."
+  },
+  "qualitative_filters": {
+    "macro_crisis_driver": "지정학적 분쟁, 금리 급등, 환율 폭등 등 시장 전체를 짓누르는 거시적 공포 배경.",
+    "market_regime_adaptation": "에코프로, 포스코가 반등을 시작하면 헷지 테마는 즉시 매도 버튼 클릭."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "지수가 급락하고 대형 주도주가 무너질 때",
+      "action_or_mindset": "당일 시장에서 반응하는 1등 헷지 테마주를 스크리닝한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "지수 분봉이 추가 급락하며 헷지주에 거래대금이 몰릴 때",
+      "action_or_mindset": "짧은 단타 관점으로 1~2분할 매수한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "지수가 저점을 찍고 양봉으로 돌아서거나 주도주가 반등할 때",
+      "action_or_mindset": "수익률 불문 헷지주를 전량 시장가로 매도하고 탈출한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "헷지주가 상한가를 갈 것 같은 욕심이 들 때",
+      "action_or_mindset": "우산은 비가 그치면 접는다는 원칙을 지키며 욕심을 버린다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "역대 헷지 테마 분석 시",
+      "action_or_mindset": "지수 폭락일 당시 헷지 테마(양지사, 사료, 유가 등)의 당일 등락률과 익일 시초가 갭하락률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "양지사",
+      "role": "전통의 품절주 헷지 대명사",
+      "context": "지수 급락 시 시장 자금을 흡수하는 전형적인 헷지 종목"
+    },
+    {
+      "ticker_name": "에코프로 / 포스코홀딩스",
+      "role": "시장 지수 견인 주도주",
+      "context": "이들 주도주가 하락할 때 헷지 테마가 반사이익을 얻는 상호작용"
+    }
+  ]
+}

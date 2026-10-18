@@ -1,0 +1,72 @@
+{
+  "video_id": "100052",
+  "video_title": "돌파 패턴에 대한 공부용 영상⧸ 눈여겨봐야 하는 차트",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "일봉상 긴 횡보 박스를 뚫어내는 고승률 돌파 차트의 정석 패턴: (1) 저점을 지속적으로 높여가며 박스 상단을 압박하는 어센딩 트라이앵글 수렴, (2) 전고점 저항선 부근에서 음봉이 나와도 거래량이 급감하며 저점을 사수하는 관리 흔적, (3) 20일선과 60일선이 정배열로 밀집하며 응축된 에너지를 폭발시키는 돌파 초입 포착법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "바위틈에 쐐기 박기 비유",
+        "intended_meaning": "단단한 바위(저항선)를 깰 때 쐐기(저점을 높이는 캔들)를 틈새에 점점 깊이 박아 넣어 결국 바위를 두 동강 내며 돌파함."
+      },
+      {
+        "original_metaphor": "도미노의 첫 블록 비유",
+        "intended_meaning": "전고점을 돌파하는 순간 차례대로 매수세가 연쇄 폭발하며 거대한 장대양봉이 완성됨."
+      }
+    ],
+    "psychological_warnings": "저항선에 부딪힐 때마다 무서워 팔아치우지 말 것. 저점을 계속 높이면서 저항선을 두드리는 차트는 세력이 매물을 소화하고 있다는 강력한 시세 분출 전조 신호임."
+  },
+  "quantitative_filters": {
+    "ascending_triangle_pattern": "고점 저항선은 수평 유지, 저점 지지선은 3회 이상 우상향 상승 수렴.",
+    "ma_density": "20일, 60일, 120일 이동평균선 이격도가 5% 이내로 초밀집.",
+    "breakout_volume_multiple": "돌파 당일 거래대금이 수렴 기간 평균 거래대금의 300% 이상 폭증."
+  },
+  "qualitative_filters": {
+    "sector_rotation_inflow": "반도체, 로봇 등 시장의 메이저 섹터로 자금이 순환매되어 들어오는 타이밍.",
+    "market_regime_adaptation": "지수가 박스권 상단을 돌파할 때 차트가 준비된 종목들이 가장 먼저 상한가로 직행."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "이평선이 밀집하고 저점을 높이며 전고점을 압박하는 차트를 발견할 때",
+      "action_or_mindset": "돌파 관심종목 1순위로 분류한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "전고점 수평 저항선을 대량 거래대금으로 뚫어낼 때",
+      "action_or_mindset": "2분할 매수로 돌파를 추종한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "돌파 후 전고점 위에서 지지받지 못하고 저점을 낮추는 음봉이 나올 때",
+      "action_or_mindset": "즉시 손절하여 휩소를 방어한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "돌파 자리의 높은 가격이 두려울 때",
+      "action_or_mindset": "수렴을 끝낸 차트의 돌파가 가장 안전하고 빠르다는 원리를 기억한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "수렴 돌파 백테스트 시",
+      "action_or_mindset": "어센딩 트라이앵글 패턴 종목의 상단 돌파 성공 확률과 평균 상승폭을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "레인보우로보틱스",
+      "role": "수렴 돌파 모범사례",
+      "context": "이평선 수렴 및 전고점 압박 후 역사적 신고가로 폭발한 로봇 대장주"
+    },
+    {
+      "ticker_name": "에스피지",
+      "role": "로봇 감속기 돌파 사례",
+      "context": "박스권 상단을 뚫고 시세를 분출한 돌파 차트"
+    }
+  ]
+}

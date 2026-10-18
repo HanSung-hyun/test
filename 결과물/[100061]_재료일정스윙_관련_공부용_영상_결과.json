@@ -1,0 +1,72 @@
+{
+  "video_id": "100061",
+  "video_title": "재료일정스윙 관련 공부용 영상",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "우크라이나 재건(900조 원), 네옴시티 수주 등 국가급 메가 프로젝트를 대상으로 하는 '재료 일정 스윙 매매'. 개별 찌라시와 달리 국가적 프로젝트는 일정이 조금 지연될지언정 반드시 시행되므로, 주가가 충분히 조정을 받아 차트가 예쁜 지지선에 도달했을 때 2~3분할로 모아가면 이벤트 발표 시 최소 10~20%의 파동이 반드시 발생한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "농부의 봄 파종과 가을 수확 비유",
+        "intended_meaning": "봄에 씨를 뿌리고(조정 지지선 분할 매수) 비바람을 견디며 기다리면 가을에 반드시 풍성한 곡식(이벤트 슈팅)을 수확함."
+      },
+      {
+        "original_metaphor": "거대한 코끼리의 발걸음 비유",
+        "intended_meaning": "수백조 원짜리 대형 프로젝트는 코끼리처럼 발걸음이 느리지만 한번 방향을 틀면 엄청난 무게감으로 주가를 밀어올림."
+      }
+    ],
+    "psychological_warnings": "일정이 조금 딜레이된다고 해서 실망하여 바닥에서 손절하지 말 것. 메가 프로젝트는 국가 간 협상과 계약 단계에서 일정이 1~2달 미뤄지는 것은 지극히 자연스러운 과정임."
+  },
+  "quantitative_filters": {
+    "mega_budget_scale": "프로젝트 총사업비 규모 최소 수십조~수백조 원대(예: 우크라 재건 900조).",
+    "swing_entry_level": "고점 대비 30~45% 충분한 기간 조정을 거친 60일/120일 중기 이평선 지지선.",
+    "take_profit_target": "공식 행사, MOU 체결, 순방 일정 발표 시 +15~25% 구간 분할 익절."
+  },
+  "qualitative_filters": {
+    "government_backing": "대통령 순방, 국토부 장관 수주단 파견 등 국가 정부 차원의 전폭적 지원.",
+    "market_regime_adaptation": "시장에 뚜렷한 주도주가 없을 때 일정 스윙주의 시세 분출 확률이 배가됨."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "우크라 재건이나 네옴시티처럼 수백조 단위 프로젝트 관련주가 지지선까지 눌렸을 때",
+      "action_or_mindset": "일정 스윙 포트폴리오에 편입한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "중기 지지선 부근에서",
+      "action_or_mindset": "10% 단위로 3회에 걸쳐 여유 있게 분할 매집한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "프로젝트 자체가 공식 백지화되거나 사업 취소 뉴스가 뜰 경우",
+      "action_or_mindset": "재료 소멸로 판단하고 전량 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "일정 지연으로 주가가 횡보할 때",
+      "action_or_mindset": "대형 프로젝트의 무게감을 신뢰하며 농부의 인내심을 발휘한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "일정 스윙 백테스트 시",
+      "action_or_mindset": "대통령 순방 및 국제 포럼 일정 전후 관련주들의 평균 주가 상승률을 데이터화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "삼부토건 / 에스와이",
+      "role": "우크라이나 재건 모듈러 주택 사례",
+      "context": "900조 재건 프로젝트 모멘텀으로 일정에 따라 큰 반등을 준 사례"
+    },
+    {
+      "ticker_name": "유신 / 다산네트웍스",
+      "role": "네옴시티 및 인프라 수혜주",
+      "context": "수주 일정과 순방 이슈에 맞춰 반복적인 시세를 제공한 사례"
+    }
+  ]
+}

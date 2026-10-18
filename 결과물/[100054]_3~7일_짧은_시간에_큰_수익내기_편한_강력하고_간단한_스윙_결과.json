@@ -1,0 +1,72 @@
+{
+  "video_id": "100054",
+  "video_title": "3~7일 짧은 시간에 큰 수익내기 편한 강력하고 간단한 스윙",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "바쁜 직장인이나 단타에 지친 투자자를 위한 최적의 '3~7일 단기 스윙 기법'. 거래대금 2,000억 이상 터진 강력한 기준봉이 세워진 후, 3~5영업일 동안 5일선~10일선 부근에서 거래량이 급감하며 숨을 고르는 종목을 2~3분할로 모아서, 2차 전고점 재돌파나 슈팅이 나올 때 10~20% 수익을 챙겨 나오는 고효율 스윙 매매.",
+    "key_analogies": [
+      {
+        "original_metaphor": "단거리 육상선수의 스타트 블록 비유",
+        "intended_meaning": "100미터 출발 신호 전 스타트 블록에 발을 얹고 웅크리고 있는 순간처럼, 3~7일간 웅크린 뒤 폭발적으로 튀어나가는 단기 스윙."
+      },
+      {
+        "original_metaphor": "일주일 단기 적금 비유",
+        "intended_meaning": "월요일에 묻어두고 금요일에 원금과 두둑한 이자(10~20%)를 찾아 나오는 깔끔한 단기 매매."
+      }
+    ],
+    "psychological_warnings": "스윙 매매라고 해서 몇 달씩 물려서 방치하는 비자발적 장기 투자를 하지 말 것. 3~7영업일 안에 승부를 보지 못하고 지지부진하게 늘어지면 기회비용을 위해 과감히 정리해야 함."
+  },
+  "quantitative_filters": {
+    "anchor_candle_quality": "최근 1~2주 내 거래대금 2,000억 이상, 등락률 +20% 이상 기준봉 보유.",
+    "pullback_holding_zone": "기준봉 고가 대비 10~20% 눌린 5일선~10일선 사이의 가격대.",
+    "volume_shrinkage": "눌림 기간 거래량이 기준봉 당일 거래량 대비 20~30% 이하로 급감."
+  },
+  "qualitative_filters": {
+    "living_theme_catalyst": "로봇, AI, 반도체 등 시장 메인 테마의 1~2등 대장주.",
+    "market_regime_adaptation": "코스닥 지수가 20일선 위에서 우상향 추세를 유지할 때 스윙 성공률 90% 달성."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "강력한 기준봉 후 3~5일간 거래량이 마르며 5~10일선에 안착한 주도주를 발굴할 때",
+      "action_or_mindset": "단기 스윙 종목으로 압축한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "5일선과 10일선 사이에서",
+      "action_or_mindset": "2~3회 분할 매수로 진입하고 3~7일 내 슈팅 시 분할 익절한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "10일선을 명확히 깨거나 매수 후 7영업일이 지나도 반등이 없을 때",
+      "action_or_mindset": "미련 없이 정리하여 자금 회전율을 지킨다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "장중 호가창을 못 봐서 답답할 때",
+      "action_or_mindset": "3~7일의 시간과 통계적 지지력을 신뢰하며 본업에 집중한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "단기 스윙 통계 수립 시",
+      "action_or_mindset": "기준봉 발생 후 3~7일 보유 시 평균 수익률과 승률을 백테스트한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "레인보우로보틱스",
+      "role": "3~7일 단기 스윙 모범사례",
+      "context": "기준봉 발생 후 5일선 눌림에서 3~5일간 횡보하다 전고점을 뚫고 2차 폭등한 사례"
+    },
+    {
+      "ticker_name": "로보스타",
+      "role": "로봇 섹터 스윙 연동주",
+      "context": "단기 스윙으로 편안하게 수익을 안겨준 종목"
+    }
+  ]
+}

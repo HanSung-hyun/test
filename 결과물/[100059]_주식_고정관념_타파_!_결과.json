@@ -1,0 +1,72 @@
+{
+  "video_id": "100059",
+  "video_title": "주식 고정관념 타파 !",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "대중 투자자를 파멸로 이끄는 고정관념을 부수는 발상의 전환. '신고가는 너무 높아서 위험하다', '장대음봉은 세력이 다 팔고 나간 것이다', '전쟁 헷지주는 잡주다'라는 경직된 틀에 갇혀있으면 시장의 진짜 큰돈을 놓침. 차트는 고정된 그림이 아니라 재료의 크기와 거래대금에 따라 실시간으로 가변 해석해야 하는 살아있는 생물이라는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "코페르니쿠스의 지동설 비유",
+        "intended_meaning": "태양이 지구를 도는 것이 아니라 지구가 태양을 돌듯, 고정관념을 뒤집을 때 비로소 시장의 진짜 진실과 돈의 흐름이 보임."
+      },
+      {
+        "original_metaphor": "물과 같은 유연성 비유",
+        "intended_meaning": "네모난 그릇에는 네모나게, 둥근 그릇에는 둥글게 담기는 물처럼 시장 상황에 맞춰 관점을 유연하게 변화시키는 지혜."
+      }
+    ],
+    "psychological_warnings": "타인의 유튜브나 책에서 배운 단 하나의 차트 모양에 집착하여 모든 종목을 거기에 끼워 맞추지 말 것. 고정관념에 갇힌 트레이더는 시장이 주는 유연한 기회를 알아보지 못하고 도태됨."
+  },
+  "quantitative_filters": {
+    "ath_breakout_acceptance": "역사적 신고가 자리라도 거래대금이 3,000억 이상 붙으면 가장 강력한 매수 자리로 인정.",
+    "flexible_volume_check": "음봉이든 양봉이든 '누적 거래대금의 실체'를 우선 평가.",
+    "war_hedge_liquidity": "전쟁 헷지주라도 거래대금 2,000억 이상 터지면 메인 트레이딩 종목으로 수용."
+  },
+  "qualitative_filters": {
+    "catalyst_overcomes_chart": "재료의 파괴력이 기존의 나쁜 차트 형태를 찢어버리고 새로운 추세를 만들어낼 수 있음을 인정.",
+    "market_regime_adaptation": "이스라엘-하마스 전쟁 등 돌발 악재 발생 시 고정관념을 버리고 즉시 유가/전쟁 수혜주로 포트 전환."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "종목을 볼 때",
+      "action_or_mindset": "'이건 안 좋은 차트야'라는 고정관념을 버리고, 재료와 돈이 들어오는지 백지상태에서 열린 눈으로 본다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "신고가 돌파 자리에 강력한 수급이 유입될 때",
+      "action_or_mindset": "비싸다는 편견을 깨고 당당하게 분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "내 고정관념과 시장의 실제 움직임이 충돌할 때",
+      "action_or_mindset": "내 고집을 즉시 꺾고 시장의 움직임에 복종하여 포지션을 정리한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "생소한 패턴의 종목이 급등할 때",
+      "action_or_mindset": "새로운 시장 트렌드를 배우려는 겸손한 호기심을 갖는다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "고정관념 탈피 연구 시",
+      "action_or_mindset": "일반적으로 나쁜 차트(역배열, 윗꼬리)에서 거대한 상승이 터진 예외 사례들의 공통 재료를 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "흥구석유",
+      "role": "전쟁 헷지 고정관념 타파 사례",
+      "context": "잡주라는 편견을 깨고 이스라엘-하마스 전쟁 발발 시 엄청난 대금과 함께 폭등한 사례"
+    },
+    {
+      "ticker_name": "엘컴텍",
+      "role": "금 관련 헷지주",
+      "context": "시장 위기 시 안전자산 선호로 시세를 뿜어낸 사례"
+    }
+  ]
+}

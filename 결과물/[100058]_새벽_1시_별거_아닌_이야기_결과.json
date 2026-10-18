@@ -1,0 +1,66 @@
+{
+  "video_id": "100058",
+  "video_title": "새벽 1시 별거 아닌 이야기",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "새벽 1시에 전하는 전업 트레이더의 삶, 슬럼프 극복, 그리고 인생과 주식의 본질. 남들과 똑같이 여유 부리고 편안함만 추구해서는 주식 시장의 냉혹한 정글에서 살아남을 수 없음. 고통과 스트레스 없는 성장은 없으며, 남들이 자는 시간에도 피나는 복기와 차트 분석으로 자신을 단련해야 비로소 시장이 인정하는 진정한 독립 트레이더로 우뚝 선다는 인생 조언.",
+    "key_analogies": [
+      {
+        "original_metaphor": "대장간의 쇠 담금질 비유",
+        "intended_meaning": "쇠가 뜨거운 불속에 들어갔다 찬물에 식혀지고 수천 번의 망치질을 견뎌내야 비로소 부러지지 않는 명검(프로 트레이더)으로 탄생함."
+      },
+      {
+        "original_metaphor": "시간의 공평한 저울 비유",
+        "intended_meaning": "시간은 부자나 가난한 자나 모두에게 공평하게 24시간이 주어지지만, 그 시간을 어디에 쏟아부었는가가 3년 뒤 인생을 결정함."
+      }
+    ],
+    "psychological_warnings": "매매가 잘 안 풀리고 슬럼프가 왔을 때 자책하며 무너지지 말 것. 모든 대가는 고통스러운 슬럼프와 깡통의 위기를 딛고 일어선 자들만이 거머쥘 수 있는 훈장임."
+  },
+  "quantitative_filters": {
+    "daily_chart_grind": "매일 밤 최소 100개 이상의 일봉/분봉 차트 전수 복기 루틴 지속.",
+    "consistent_sleep_schedule": "장 시작 전 최상의 뇌 상태를 유지하기 위한 철저한 컨디션 관리."
+  },
+  "qualitative_filters": {
+    "self_honesty_audit": "남 탓, 시장 탓을 멈추고 오직 내 매매 일지와 실수를 정직하게 마주하는 태도.",
+    "market_regime_adaptation": "어떤 시장이 와도 흔들리지 않는 내면의 단단한 트레이딩 철학 확립."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "MINDSET",
+      "condition": "슬럼프가 찾아오고 매매가 꼬일 때",
+      "action_or_mindset": "성장을 위해 거쳐야 할 필연적인 담금질의 과정임을 담담히 받아들인다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "RESEARCH",
+      "condition": "매일 밤 복기 루틴 시",
+      "action_or_mindset": "남들이 쉴 때 1시간 더 차트를 보며 내일의 주도주 시나리오를 완성한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "멘탈이 흔들려 도박성 매매를 하고 싶을 때",
+      "action_or_mindset": "내가 왜 주식을 시작했는가를 되새기며 즉시 멈춘다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "EXECUTION",
+      "condition": "실전 매매 집행 시",
+      "action_or_mindset": "어제의 철저한 복기를 바탕으로 침착하게 한 수 한 수를 둔다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "FILTER",
+      "condition": "생활 습관을 점검할 때",
+      "action_or_mindset": "나태함과 게으름을 경계하고 트레이더로서의 규율을 삶의 1순위로 둔다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "전업 트레이더의 삶",
+      "role": "마인드셋과 자기 성찰",
+      "context": "고통을 견뎌내고 스스로의 노력으로 일어서야 하는 트레이더의 인생 철학"
+    }
+  ]
+}

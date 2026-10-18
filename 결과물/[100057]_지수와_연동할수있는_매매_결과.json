@@ -1,0 +1,72 @@
+{
+  "video_id": "100057",
+  "video_title": "지수와 연동할수있는 매매",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "개별 종목의 차트만 들여다보지 말고, 코스닥/코스피 레버리지 및 지수 선물 분봉을 듀얼 모니터로 동시에 띄워놓고 매매하는 '지수 연동 매매'. 지수가 분봉상 투매를 멈추고 쌍바닥을 찍으며 턴어라운드하는 그 결정적 찰나에, 시장에서 가장 강한 1등 주도주를 동반 매수하면 승률 90% 이상의 안전하고 확실한 수익을 거머쥘 수 있다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "오케스트라 지휘자와 독주자 비유",
+        "intended_meaning": "지수(지휘자)가 지휘봉을 들어 올리는 순간 독주자(주도주)가 가장 화려한 바이올린 독주를 시작하는 조화."
+      },
+      {
+        "original_metaphor": "바다의 밀물과 썰물 비유",
+        "intended_meaning": "밀물(지수 상승)이 들어올 때 배(주도주)를 띄워야 힘들이지 않고 순항할 수 있음."
+      }
+    ],
+    "psychological_warnings": "지수가 끝없이 하락하고 있는데 혼자 차트 예쁘다고 역주행 매수하지 말 것. 지수가 무너지면 100종목 중 95종목이 함께 침몰하므로, 반드시 지수의 저점 확인 신호와 함께 움직여야 함."
+  },
+  "quantitative_filters": {
+    "index_double_bottom": "코스닥 분봉이 장중 2회 이상 저점을 높이며 쌍바닥 지지 완성.",
+    "leader_relative_strength": "지수가 쌍바닥을 만들 때 해당 주도주는 이미 전고점을 뚫고 올라서는 상대적 강도.",
+    "synchronized_entry_timing": "지수 선물의 양봉 전환 분봉 발생 시점과 종목 매수 시점 완벽 동기화."
+  },
+  "qualitative_filters": {
+    "index_heavyweight_power": "지수 견인력이 가장 큰 시총 최상위 주도주(에코프로, 포스코홀딩스 등)에 집중.",
+    "market_regime_adaptation": "지수의 변곡점 매매는 약세장에서 특히 강력한 반등 파동을 제공."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "매매 시",
+      "action_or_mindset": "반드시 화면 한쪽에 코스닥 분봉 및 지수 선물 차트를 띄워두고 지수 흐름을 1순위로 관찰한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "지수가 분봉상 하락을 멈추고 반등 턴어라운드 신호를 줄 때",
+      "action_or_mindset": "미리 골라둔 최강 주도주를 2분할 매수로 즉시 집행한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "지수가 반등에 실패하고 전저점을 깨며 추가 급락할 경우",
+      "action_or_mindset": "종목도 지수를 따라 무너지므로 즉각 기계적 손절을 실행한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "종목만 쳐다보고 싶은 좁은 시야가 될 때",
+      "action_or_mindset": "지수가 종목의 어머니라는 사실을 명심하고 큰 숲(지수)을 먼저 본다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "지수 연동 매매 통계 수립 시",
+      "action_or_mindset": "지수 분봉 반등 시작점과 주도주 분봉 반등 시작점의 시차(타임랙) 데이터를 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "코스닥 레버리지",
+      "role": "지수 방향성 지표",
+      "context": "시장 전체의 자금 흐름과 반등 변곡점을 포착하기 위한 메인 지표"
+    },
+    {
+      "ticker_name": "에코프로",
+      "role": "지수 동기화 주도주",
+      "context": "지수 반등 시 가장 폭발적으로 호응하며 치솟은 사례"
+    }
+  ]
+}

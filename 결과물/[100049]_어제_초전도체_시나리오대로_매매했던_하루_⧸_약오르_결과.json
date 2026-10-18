@@ -1,0 +1,72 @@
+{
+  "video_id": "100049",
+  "video_title": "어제 초전도체 시나리오대로 매매했던 하루 ⧸ 약오르",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "전일 설계한 초전도체 낙폭 스윙 시나리오를 당일 장중 그대로 실행하여 상한가 및 20% 이상 급반등을 확정 지은 실전 매매 검증. 비록 매도 후 주가가 더 날아가서 약이 오르더라도, 사전에 정해둔 원칙대로 익절하여 수익을 확정한 것이 최고의 트레이딩이라는 심법 조언.",
+    "key_analogies": [
+      {
+        "original_metaphor": "내 몫의 사과만 챙겨 나오기 비유",
+        "intended_meaning": "사과나무에서 사과가 더 열린다고 꼭대기까지 올라가다 떨어지지 말고, 손에 닿는 잘 익은 사과(20% 수익)만 챙겨서 유유히 걸어 나오는 지혜."
+      },
+      {
+        "original_metaphor": "배가 부르면 숟가락을 놓는 지혜 비유",
+        "intended_meaning": "더 먹으려다 체하는 것보다, 배부를 때 기분 좋게 식탁을 떠나는 절제력."
+      }
+    ],
+    "psychological_warnings": "내가 팔고 나서 상한가를 가거나 더 올랐다고 해서 '약올라' 하거나 배아파하지 말 것. 꼭대기에서 팔려는 것은 신의 영역이며, 인간 트레이더는 계획된 수익 구간만 먹고 나오는 것으로 100점 만점임."
+  },
+  "quantitative_filters": {
+    "pre_planned_fill": "장전 설정한 분할 매수가에 정확히 체결 완료.",
+    "intraday_limit_up_gain": "당일 상한가 도달 또는 +20% 이상 폭등 시 분할 매도로 차익 확정.",
+    "zero_fomo_reentry": "익절 청산 후 당일 추가 급등하더라도 재매수 절대 금지."
+  },
+  "qualitative_filters": {
+    "rule_compliance_praise": "결과적 수익률보다 '계획한 시나리오를 100% 실행했는가'를 최고 기준으로 평가.",
+    "market_regime_adaptation": "변동성이 극에 달한 날에는 빠른 익절로 현금을 쥐고 있는 것이 최선의 방어."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "전일 시나리오를 수립해 둔 종목이 장 시작 후 예상대로 움직일 때",
+      "action_or_mindset": "다른 잡주를 보지 말고 해당 종목의 체결에 집중한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "시나리오대로 진입 후 주가가 급등하여 목표 수익률에 도달할 때",
+      "action_or_mindset": "분할 매도로 계좌에 수익을 확정 짓는다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "매도 후 주가가 상한가로 날아가며 FOMO가 올 때",
+      "action_or_mindset": "절대 재진입하지 않고 당일 매매를 종료한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "더 못 먹어서 아쉬움이 생길 때",
+      "action_or_mindset": "수익을 낸 것 자체에 감사하고 계획 준수를 칭찬한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "시나리오 실행 복기 시",
+      "action_or_mindset": "매도 타이밍과 분할 매도 비율의 적절성을 사후 데이터로 점검한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "파워로직스",
+      "role": "시나리오 익절 실전사례",
+      "context": "시나리오대로 매수하여 상한가 및 큰 반등을 먹고 나온 실전 복기"
+    },
+    {
+      "ticker_name": "신성델타테크",
+      "role": "대장주 랠리 사례",
+      "context": "파워로직스와 함께 초전도체 반등 랠리를 이끈 종목"
+    }
+  ]
+}

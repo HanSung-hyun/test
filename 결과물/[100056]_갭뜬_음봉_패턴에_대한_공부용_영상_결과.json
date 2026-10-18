@@ -1,0 +1,67 @@
+{
+  "video_id": "100056",
+  "video_title": "갭뜬 음봉 패턴에 대한 공부용 영상",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "시초가에 호재나 이슈로 크게 갭 상승(+8~15% 이상) 출발했다가 종가상 장대음봉으로 밀려버린 '갭 뜬 음봉'의 세력 의도 분별법. 개미에게 물량을 떠넘기고 탈출한 '진짜 털기 음봉'과, 전고점 매물을 소화하고 다음 날 더 큰 시세를 쏘기 위한 '매물 소화형 속임수 갭음봉'을 판별하는 기준: (1) 갭음봉의 종가가 전일 고가 위에서 끝났는가, (2) 분봉상 투매 시 거래량이 줄었는가, (3) 익일 시초가가 음봉 몸통 위에서 출발하는가.",
+    "key_analogies": [
+      {
+        "original_metaphor": "트로이 목마 비유",
+        "intended_meaning": "겉은 무시무시한 장대음봉이지만 그 안에는 세력이 전고점 매물을 다 삼켜버린 매집의 군대가 숨어있음."
+      },
+      {
+        "original_metaphor": "지붕 위의 다이빙대 비유",
+        "intended_meaning": "전일 주가보다 훨씬 높은 지붕 위에서 음봉이 떨어졌기 때문에, 실제로는 주가가 여전히 공중에 떠 있는 강한 상태."
+      }
+    ],
+    "psychological_warnings": "시초가 갭이 너무 높게 뜰 때 흥분하여 추격매수하면 갭음봉의 밥이 됨. 갭 뜬 날은 건드리지 말고, 갭음봉이 완성된 후 다음 날 어떻게 움직이는지를 보고 요리해야 함."
+  },
+  "quantitative_filters": {
+    "gap_up_percentage": "시초가가 전일 종가 대비 +7~15% 이상 높게 출발.",
+    "close_above_prior_high": "장대음봉으로 마감했음에도 종가가 전일 고가보다 높은 가격대를 유지(양봉성 음봉).",
+    "next_day_reversal": "익일 시초가가 전일 갭음봉 몸통 중간(50%) 이상에서 갭 상승 출발."
+  },
+  "qualitative_filters": {
+    "absorption_not_exit": "단기 찌라시가 아닌 중장기 메가 재료를 보유한 주도 섹터의 종목.",
+    "market_regime_adaptation": "강세장에서 갭 뜬 음봉은 익일 갭을 메우지 않고 곧바로 전고점을 뚫어버리는 초강세 패턴으로 전환."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "갭이 크게 뜬 뒤 음봉으로 마감했으나 전일 고가를 지켜낸 종목을 발견할 때",
+      "action_or_mindset": "속임수 갭음봉 후보로 등록하고 익일 시초가를 주시한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "익일 시초가가 전일 음봉 몸통 위에서 출발하며 거래량이 붙을 때",
+      "action_or_mindset": "2분할 매수로 적극 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "익일 시초가가 갭하락하여 전일 음봉 저점을 깨고 내려갈 경우",
+      "action_or_mindset": "진짜 털기 음봉으로 판단하고 매매를 즉시 포기한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "음봉 캔들의 색깔에 편견이 생길 때",
+      "action_or_mindset": "전일 대비 주가 위치(플러스 상태)를 냉정하게 평가한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "갭음봉 통계 구축 시",
+      "action_or_mindset": "갭 뜬 음봉 발생 후 익일 양봉 역전 성공률을 거래대금 크기별로 분류 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "갭 뜬 음봉 출현 주도주",
+      "role": "속임수 갭음봉 모범사례",
+      "context": "시초 갭 후 음봉으로 밀렸으나 다음날 곧바로 장대양봉으로 돌려세운 사례들"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "100047",
+  "video_title": "급등주 투매 포인트",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "단기간 100~300% 폭등한 급등주에서 터지는 '첫 번째 투매'는 세력도 물량을 한 번에 다 털고 나갈 수 없기 때문에 반드시 강력한 기술적 반등 파동이 1회 이상 발생함. 이 첫 투매의 지지선(전고점, 상한가 라인, 라운드피겨)을 공략하면 높은 승률과 손익비를 확보할 수 있다는 '첫 투매 반등의 법칙'.",
+    "key_analogies": [
+      {
+        "original_metaphor": "10층에서 떨어진 테니스공 비유",
+        "intended_meaning": "높은 곳에서 떨어진 공일수록 바닥을 치고 최소 3~5층 높이까지는 무조건 강하게 튀어 오름."
+      },
+      {
+        "original_metaphor": "첫 번째 파도의 반동 비유",
+        "intended_meaning": "거대한 파도가 방파제에 부딪혀 부서질 때 생기는 첫 번째 물보라 반동."
+      }
+    ],
+    "psychological_warnings": "첫 번째 투매는 기회이지만, 두 번째/세 번째 투매는 세력이 설거지를 끝내고 나가는 자리이므로 절대 건드리면 안 됨. 오직 '첫 번째 투매'에만 집중해야 함."
+  },
+  "quantitative_filters": {
+    "first_dump_condition": "최근 1~2주간 100% 이상 폭등 후 처음으로 발생하는 장중 -15~25% 급락 또는 첫 하한가.",
+    "historical_support_confluence": "직전 박스권 상단 또는 1차 상한가 가격대와 일치하는 자리.",
+    "bounce_scale": "투매 저점 대비 최소 +10~20% 이상의 기술적 반등 발생."
+  },
+  "qualitative_filters": {
+    "active_market_hype": "테마의 시장 관심과 거래대금이 여전히 살아있는 최강 주도 테마.",
+    "market_regime_adaptation": "개미들의 공포 투매가 클라이맥스에 달해 거래량이 폭발하는 순간 진입."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "3연상 이상 폭등한 주도주가 첫 번째 장중 투매로 급락할 때",
+      "action_or_mindset": "첫 투매 반등 최우선 공략주로 지정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "사전에 계산한 주요 지지선에 도달하여 하락이 멈출 때",
+      "action_or_mindset": "2~3분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "반등 후 재차 밀리거나 2차 투매가 시작될 때",
+      "action_or_mindset": "절대 재매수하지 않고 매매를 종료한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "첫 투매를 잡을 때 손이 떨릴 때",
+      "action_or_mindset": "세력도 물량을 털기 위해 반등을 만들어야 한다는 필연성을 신뢰한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "첫 투매 통계 분석 시",
+      "action_or_mindset": "역대 급등주들의 첫 투매 발생일 대비 반등폭과 승률을 정량 데이터화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "초전도체 급등주",
+      "role": "첫 투매 반등 모범사례",
+      "context": "폭등 후 첫 번째 급락에서 수십%의 강력한 기술적 반등을 제공한 사례"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "100043",
+  "video_title": "멤버십 시나리오대로 투매 매매 고마운 초전도체, 비",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "사전에 세워둔 시나리오대로 초전도체 급락 투매를 공략하여 당일 15~30%의 거대한 V자 반등을 수익으로 확정한 실전 복기. 주가가 폭등할 때 흥분하지 않고 '어디까지 밀리면 세력의 돈 쓴 자리인가'를 미리 계산해 두고, 시장이 공포로 던질 때 태연하게 주워 담아 수익을 극대화하는 시나리오 매매의 승리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "각본대로 움직이는 영화 비유",
+        "intended_meaning": "감독이 쓴 시나리오대로 배우들이 움직이듯, 사전에 계획한 가격대에서 주가가 멈추고 반등하는 정교한 시나리오 매매."
+      },
+      {
+        "original_metaphor": "남들의 비명이 나의 환호 비유",
+        "intended_meaning": "시장의 모든 개미들이 패닉에 빠져 던지는 투매 물량이 나에게는 가장 안전하고 저렴한 황금 매수 타점이 됨."
+      }
+    ],
+    "psychological_warnings": "장중에 즉흥적으로 판단하여 매수하지 말 것. 모든 성공적인 트레이딩은 장전에 이미 '어디서 사고 어디서 팔 것인가' 시나리오가 100% 준비되어 있어야만 감정의 동요 없이 집행할 수 있음."
+  },
+  "quantitative_filters": {
+    "pre_calculated_entry": "장전 시나리오로 설정한 기준봉 시가 또는 전저점 지지 가격대 도달.",
+    "massive_bounce_spread": "투매 저점 대비 반등폭이 최소 +15~25% 이상 발생하는 강력한 주도 테마.",
+    "intraday_execution_split": "1차, 2차 사전 분할 매수가에 정확히 50:50 비중 투입."
+  },
+  "qualitative_filters": {
+    "historic_theme_power": "초전도체처럼 전 국민과 시장 전체의 돈이 쏠린 역사적 테마는 쉽게 죽지 않음.",
+    "market_regime_adaptation": "테마의 진위 논란 뉴스가 나올 때마다 급등락이 반복되므로 뉴스 발생 시 역발상 타점 활용."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "역대급 광풍을 일으킨 테마주가 악재성 뉴스로 하한가 부근까지 급락할 때",
+      "action_or_mindset": "장전 시나리오 가격대와 일치하는지 확인한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "시나리오 지지선에 도달했을 때",
+      "action_or_mindset": "감정을 배제하고 예약된 비중으로 분할 매수를 집행한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "반등 후 +15% 이상 수익권에 진입할 때",
+      "action_or_mindset": "욕심부리지 않고 분할 매도로 차익을 실현하여 수익을 보존한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "시장의 비명과 공포 뉴스가 도배될 때",
+      "action_or_mindset": "시나리오를 믿고 대중의 공포를 수익으로 치환하는 배짱을 발휘한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "시나리오 적중률 복기 시",
+      "action_or_mindset": "장전 예측 가격대와 실제 장중 저점 간의 오차를 계산하여 타점 정밀도를 높인다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "서남",
+      "role": "초전도체 시나리오 매매 모범주",
+      "context": "사전 시나리오 지지선에서 매수하여 당일 거대한 V자 반등을 수익 실현한 사례"
+    },
+    {
+      "ticker_name": "덕성",
+      "role": "시나리오 연동 공략주",
+      "context": "서남과 함께 분할 매수로 접근하여 큰 반등을 챙긴 종목"
+    }
+  ]
+}

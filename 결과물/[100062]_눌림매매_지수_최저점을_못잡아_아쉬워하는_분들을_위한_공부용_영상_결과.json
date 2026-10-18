@@ -1,0 +1,67 @@
+{
+  "video_id": "100062",
+  "video_title": "눌림매매 지수 최저점을 못잡아 아쉬워하는 분들을 위한 공부용 영상 ⧸",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "눌림 매매를 할 때 지수의 '최저점(발바닥)'을 정확히 1원 단위로 맞추지 못했다고 자책하거나 아쉬워할 필요가 전혀 없음. 주식 시장에서 지수의 최저점은 신도 못 맞추는 영역임. 중요한 것은 '외국인/기관의 수급 시그널'과 '분할 매수 체계'를 통해 충분히 안전하고 유리한 '가격 구역(무릎 Zone)'을 확보했는가이며, 무릎에서 사서 어깨에서 파는 것으로 충분히 거대한 부를 쌓을 수 있다는 눌림목의 철학.",
+    "key_analogies": [
+      {
+        "original_metaphor": "무릎에서 사서 어깨에서 파는 격언 비유",
+        "intended_meaning": "발바닥 끝을 잡으려다 칼날에 손을 베이지 말고, 무릎(바닥을 확인한 안전 지대)에서 사서 어깨에서 파는 정석 트레이딩."
+      },
+      {
+        "original_metaphor": "안개 낀 바다의 등대 비유",
+        "intended_meaning": "한 치 앞도 안 보이는 지수 폭락 속에서 외인/기관의 순매수 전환이라는 등대 불빛을 보고 안전하게 항구(매수 구역)로 진입함."
+      }
+    ],
+    "psychological_warnings": "최저점을 못 잡았다고 해서 포모(FOMO)에 눈이 멀어 반등한 꼭대기를 추격매수하지 말 것. 완벽한 타점에 대한 강박증이 오히려 계좌를 망치는 최대의 적임."
+  },
+  "quantitative_filters": {
+    "institutional_foreign_turn": "지수 급락 후 외국인 또는 기관이 장중 1,000억 이상 순매수로 전환하는 수급 시그널.",
+    "zone_based_split": "단일가가 아닌 2~3% 범위의 '매수 존(Zone)'을 설정하고 3분할 매수.",
+    "safe_risk_reward": "하방 손절폭 -3% 대비 상방 반등 목표치 +8~15%의 유리한 손익비."
+  },
+  "qualitative_filters": {
+    "macro_selling_climax": "신용 잔고 청산, 반대매매 폭탄 등 개인들의 항복(투매)이 쏟아져 나온 직후.",
+    "market_regime_adaptation": "지수 반등 시 가장 견고한 펀더멘털과 수급을 가진 대형 주도주로 압축 공략."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "MINDSET",
+      "condition": "지수가 최저점을 찍고 반등했을 때 최저점을 못 잡았다는 아쉬움이 들 때",
+      "action_or_mindset": "발바닥을 잡으려는 욕심을 버리고 무릎에서 분할 매수하는 안전성에 만족한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "외인/기관의 수급 반전 시그널이 확인될 때",
+      "action_or_mindset": "사전에 정한 매수 존에서 차분하게 2~3분할로 포지션을 구축한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "지수 반등이 가짜 반등(데드캣 바운스)으로 판명되어 지지선을 이탈할 때",
+      "action_or_mindset": "미련 없이 손절하여 리스크를 관리한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "FILTER",
+      "condition": "지수 반등 시 종목을 고를 때",
+      "action_or_mindset": "잡주를 배제하고 지수 견인력이 가장 높은 S급 주도주로 압축한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "지수 바닥 패턴 연구 시",
+      "action_or_mindset": "개인 반대매매 절정일과 외인/기관 순매수 전환일 간의 지수 저점 형성 상관관계를 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "시장 대형 수급주 및 지수 추종주",
+      "role": "지수 바닥 눌림목 대상",
+      "context": "최저점을 잡으려 애쓰지 않고 안전한 무릎 구간에서 분할 매수로 접근해야 하는 실전 심법"
+    }
+  ]
+}

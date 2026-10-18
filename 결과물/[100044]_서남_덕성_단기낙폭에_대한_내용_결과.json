@@ -1,0 +1,72 @@
+{
+  "video_id": "100044",
+  "video_title": "서남 덕성 단기낙폭에 대한 내용",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "서남, 덕성 등 초전도체 관련주들이 연이은 하한가와 급락으로 단기 낙폭과대 구간에 진입했을 때의 지지선 판별법. 어디가 진짜 바닥인가? (1) 최초 상승 출발점이었던 1차 상한가 가격대, (2) 거래대금이 수천억 터졌던 대량 거래봉의 시가, (3) 핵심 라운드피겨. 이 3대 지지선이 겹치는 구간에서 세력의 기술적 반등 방어선이 형성된다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "안전 그물망 비유",
+        "intended_meaning": "공중그네에서 떨어지는 곡예사 아래에 쳐진 튼튼한 안전 그물망(세력의 최초 매집 기준봉)처럼 주가를 받아내는 강력한 지지대."
+      },
+      {
+        "original_metaphor": "고무줄 당기기 비유",
+        "intended_meaning": "고무줄을 밑으로 세게 당길수록 놓았을 때 튕겨 올라가는 힘이 폭발적임."
+      }
+    ],
+    "psychological_warnings": "연속 하한가로 떨어지는 종목을 어설픈 중간 가격대에서 물타기하지 말 것. 확실한 안전 그물망(기준봉 시가/라운드피겨)까지 충분히 기다려야 생존할 수 있음."
+  },
+  "quantitative_filters": {
+    "plunge_from_peak": "역대 최고점 대비 -40~60% 이상 극단적 단기 가격 왜곡 발생.",
+    "original_launch_base": "1차 파동을 시작했던 최초 상한가 종가 또는 거래대금 폭발봉의 시가 가격대.",
+    "volume_drying_at_drop": "하한가 도달 후 하한가 잔량이 줄어들며 거래가 터지는 손바뀜 확인."
+  },
+  "qualitative_filters": {
+    "theme_not_dead": "연구소의 검증 결과 발표 등 후속 일정이 여전히 대기 중인 상태.",
+    "market_regime_adaptation": "테마 전체가 동반 하한가를 갔을 때 1등 대장주의 하한가가 풀리는 순간이 전 종목 매수 신호."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "연속 하한가로 급락한 종목이 1차 상승 출발점 부근에 도달했을 때",
+      "action_or_mindset": "단기 낙폭과대 반등 후보로 지정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "하한가가 풀리며 대량 거래가 유입되는 시점에",
+      "action_or_mindset": "2분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "반등에 실패하고 다시 하한가로 닫히려 할 경우",
+      "action_or_mindset": "즉시 시장가로 탈출하여 계좌 묶임을 방지한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "하한가 잔량의 공포에 질릴 때",
+      "action_or_mindset": "공포가 극에 달한 자리가 가장 큰 수익의 기회임을 명심한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "하한가 풀림 패턴 통계 시",
+      "action_or_mindset": "연속 하한가 종목의 하한가 풀림 당일 고가 반등률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "서남",
+      "role": "단기 낙폭과대 기준주",
+      "context": "연속 하한가 후 최초 출발점 부근에서 강한 기술적 반등을 분출한 사례"
+    },
+    {
+      "ticker_name": "덕성",
+      "role": "낙폭과대 연동 공략주",
+      "context": "서남과 함께 극단적 단기 낙폭을 보인 뒤 반등한 사례"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "100050",
+  "video_title": "신성델타테크 일봉 및 분봉에 대한 해석",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "초전도체 테마의 절대 대장주로 등극한 신성델타테크의 일봉과 분봉 디테일 해석. 후발주들이 하한가로 처박히는 공포 속에서도 홀로 상한가를 가거나 투매를 견뎌내는 '진짜 대장주만이 보여주는 독보적 힘': (1) 분봉상 투매가 나와도 당일 저점을 깨지 않는 복원력, (2) 상한가를 굳힐 때의 압도적 매수 잔량, (3) 대장주 프리미엄을 이용한 눌림목 타점.",
+    "key_analogies": [
+      {
+        "original_metaphor": "난세의 영웅 비유",
+        "intended_meaning": "주변 부하들(후발주)이 전부 쓰러져 나가는 아비규환의 전쟁터에서 홀로 칼을 휘두르며 적진을 돌파하는 장수의 기개."
+      },
+      {
+        "original_metaphor": "태풍 속의 황제 비유",
+        "intended_meaning": "모든 종목이 지수와 악재에 흔들릴 때 홀로 왕좌에 앉아 흔들림 없이 시세를 통제하는 모습."
+      }
+    ],
+    "psychological_warnings": "대장주가 너무 많이 올랐다고 해서 싸 보이는 2등주, 3등주로 갈아타지 말 것. 위기 상황이 닥치면 후발주는 하한가로 직행하지만 대장주는 끝까지 살아남아 수익을 줌."
+  },
+  "quantitative_filters": {
+    "leader_premium_spread": "테마 내 유일하게 상한가 안착 또는 하락률이 후발주 대비 절반 이하로 선방.",
+    "intraday_low_protection": "분봉상 오전 9:30 이후 형성된 당일 저점을 종가까지 사수.",
+    "turnover_dominance": "테마 전체 거래대금의 50% 이상을 단일 종목이 흡수."
+  },
+  "qualitative_filters": {
+    "direct_equity_link": "LK-99 퀀텀에너지연구소 지분을 보유한 엘앤에스벤처캐피탈의 최대주주라는 팩트적 우위.",
+    "market_regime_adaptation": "테마의 악재 뉴스가 떠도 대장주는 '시간 외 단일가'나 다음날 시초가에 가장 먼저 회복."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "테마 매매 시",
+      "action_or_mindset": "아무리 무서워 보여도 오직 신성델타테크 같은 1등 대장주만 매매 대상으로 삼는다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "대장주가 장중 투매로 분봉 지지선까지 눌릴 때",
+      "action_or_mindset": "2분할 매수로 적극 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "대장주마저 상한가가 풀리고 대량 거래 장대음봉으로 전저점을 깰 경우",
+      "action_or_mindset": "테마의 종말로 판단하고 즉시 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "후발주의 싼 가격에 눈이 돌아갈 때",
+      "action_or_mindset": "대장주가 죽으면 후발주는 지하실로 간다는 절대 진리를 상기한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "대장주 디커플링 분석 시",
+      "action_or_mindset": "신성델타테크와 타 초전도체 종목 간의 일별 등락률 괴리도를 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "신성델타테크",
+      "role": "초전도체 절대 1등 대장주",
+      "context": "후발주 하한가 속에서도 상한가를 지켜내며 대장주의 품격을 증명한 사례"
+    },
+    {
+      "ticker_name": "파워로직스",
+      "role": "2등주 연동 사례",
+      "context": "대장주 신성델타테크의 눈치를 보며 뒤따라 움직인 종목"
+    }
+  ]
+}

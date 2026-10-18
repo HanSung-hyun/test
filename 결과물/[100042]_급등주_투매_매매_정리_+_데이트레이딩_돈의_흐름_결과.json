@@ -1,0 +1,72 @@
+{
+  "video_id": "100042",
+  "video_title": "급등주 투매 매매 정리 + 데이트레이딩 돈의 흐름",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "급등주에서 장중 -15~25% 폭포수 투매가 쏟아질 때 세력의 자금 흐름을 읽고 기술적 반등을 취하는 투매 매매의 정석. 투매가 쏟아지는 한가운데 들어가는 것이 아니라, 분봉상 하락 속도가 둔화되고 매수 호가창이 받쳐지며 특정 라운드피겨에서 멈칫하는 '물받이 지점'에서 2~3분할로 진입하여 +5~10% 반등을 챙기는 기법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "폭포수 아래 물받이 비유",
+        "intended_meaning": "폭포가 떨어지는 한가운데 손을 대면 다치지만, 물살이 바닥에 닿아 잦아드는 물받이 지점에서 바가지를 대면 안전하게 물을 담을 수 있음."
+      },
+      {
+        "original_metaphor": "롤러코스터 최하단 반작용 비유",
+        "intended_meaning": "롤러코스터가 수직 낙하한 직후 트랙의 곡선을 타고 가장 강력한 반동으로 솟구쳐 오르는 물리적 반작용."
+      }
+    ],
+    "psychological_warnings": "급락하는 칼날에 한 번에 몰빵하지 말 것. 투매 매매는 어디가 바닥인지 알 수 없으므로 반드시 분할 매수로 평단가를 낮추며 기술적 반등 시 욕심부리지 않고 챙겨 나와야 함."
+  },
+  "quantitative_filters": {
+    "intraday_plunge_rate": "당일 고점 대비 1~2시간 만에 -15~25% 급격한 수직 하락.",
+    "round_figure_anchor": "의미 있는 1만 원, 5,000원 단위 라운드피겨 또는 직전 기준봉 상단 가격대 근접.",
+    "rebound_take_profit": "투매 저점 대비 반등 +5~10% 구간에서 전량 분할 매도."
+  },
+  "qualitative_filters": {
+    "theme_capital_shift": "투매로 빠져나간 자금이 어떤 대체 테마로 이동하는지 실시간 돈의 흐름 교차 추적.",
+    "market_regime_adaptation": "시장에 강력한 신규 광풍 테마가 존재할 때 투매 반등의 폭과 속도가 극대화됨."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "당일 최강 테마주가 장중 급격한 투매로 수직 하락할 때",
+      "action_or_mindset": "투매 반등 관심종목으로 지정하고 라운드피겨 지지선을 설정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "분봉상 급락세가 멈추고 밑꼬리를 달며 체결 속도가 살아날 때",
+      "action_or_mindset": "2~3분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "설정한 3차 지지선을 깨고 추가 하락이 지속될 경우",
+      "action_or_mindset": "지체 없이 손절하여 계좌 슬리피지를 방어한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "투매의 공포로 손이 떨릴 때",
+      "action_or_mindset": "계획된 분할 매수와 손익비 매트릭스를 신뢰하며 기계적으로 대응한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "투매 패턴 통계 구축 시",
+      "action_or_mindset": "급등주의 1차 투매 낙폭률별 당일 반등 성공률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "서남",
+      "role": "초전도체 투매 반등 모범사례",
+      "context": "급등 후 장중 수직 투매가 나왔으나 특정 가격대에서 강한 V자 반등을 제공한 사례"
+    },
+    {
+      "ticker_name": "덕성",
+      "role": "초전도체 후속주 사례",
+      "context": "대장주 서남의 투매 반등 흐름에 연동하여 반등한 사례"
+    }
+  ]
+}
