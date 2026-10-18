@@ -1,0 +1,72 @@
+{
+  "video_id": "100031",
+  "video_title": "장대음봉에 숨겨진 매매 비밀",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "차트에 나타나는 거대한 장대음봉 중에는 세력의 물량 털기용 '진짜 음봉'과, 개미의 투매를 유도하기 위해 적은 돈으로 가격만 밀어버린 '가짜 음봉(속임수 음봉)'이 존재함. 장대음봉의 거래량이 전일 대비 20~30% 수준으로 극단적으로 적다면, 이는 세력이 나간 것이 아니라 호가창을 비워두고 일부러 공포를 조성한 것임. 이 가짜 장대음봉 익일 시초가 및 지지선에서 매수하여 폭발적인 되돌림 반등을 취하는 비법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "종이호랑이 비유",
+        "intended_meaning": "겉모습은 무시무시한 장대음봉(호랑이)이지만, 속을 들여다보면 거래량(종이)이 없어 작은 바람에도 찢어지는 가짜 공포."
+      },
+      {
+        "original_metaphor": "늑대 탈을 쓴 양 비유",
+        "intended_meaning": "흉포하게 이빨을 드러내고 있지만 실제로는 세력이 돈을 쓰지 않고 개미를 털기 위해 씌워놓은 연극용 가면."
+      }
+    ],
+    "psychological_warnings": "캔들의 시각적 크기(음봉의 길이)에 압도당하지 말 것. 차트의 본질은 캔들의 색깔이 아니라 그 캔들을 만드는 데 '얼마의 거래대금이 쓰였는가'에 있음."
+  },
+  "quantitative_filters": {
+    "bearish_candle_depth": "당일 -7% 이상의 위협적인 장대음봉 출현.",
+    "low_volume_ratio": "음봉 당일 거래대금이 직전 상승 양봉 거래대금의 20~35% 이하로 극단적 감소.",
+    "support_proximity": "음봉 종가가 20일 이동평균선 또는 직전 전고점 지지선에 걸쳐있음."
+  },
+  "qualitative_filters": {
+    "no_fundamental_flaw": "기업의 실적, 공시, 재료에 아무런 이상이 없는 상태에서의 가격 왜곡.",
+    "market_regime_adaptation": "지수 선물 급락 등으로 장 막판 억지 투매가 쏟아졌을 때 다음날 갭 상승 복구 확률 80% 이상."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "거래량이 극도로 적은 장대음봉이 발생한 주도주를 발견했을 때",
+      "action_or_mindset": "속임수 음봉 후보로 분류하고 익일 관심종목 최상단에 배치한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "익일 시초가가 지지선 위에서 형성되거나 전일 음봉을 잡아먹는 양봉이 시작될 때",
+      "action_or_mindset": "2분할 매수로 적극 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "익일 거래량이 터지며 전일 음봉 저점을 추가 이탈할 경우",
+      "action_or_mindset": "가짜 음봉이 아닌 진짜 하락으로 인정하고 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "장대음봉의 위압감에 위축될 때",
+      "action_or_mindset": "거래량이 없는 음봉은 종이호랑이에 불과하다는 원리를 되새기며 냉정을 찾는다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "속임수 음봉 패턴 분석 시",
+      "action_or_mindset": "음봉 거래량 비율(30% 이하)별 익일 양봉 반등 성공률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "포스코DX",
+      "role": "속임수 음봉 반등 모범사례",
+      "context": "거래량 없는 장대음봉으로 개미를 털어낸 뒤 곧바로 다음날 양봉으로 돌려세우며 급등한 사례"
+    },
+    {
+      "ticker_name": "금양",
+      "role": "가짜 음봉 극복 주도주 사례",
+      "context": "상승 추세 중 거래량 마른 음봉을 거친 뒤 추가 시세를 분출한 사례"
+    }
+  ]
+}

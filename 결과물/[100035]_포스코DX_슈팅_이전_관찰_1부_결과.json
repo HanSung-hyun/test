@@ -1,0 +1,72 @@
+{
+  "video_id": "100035",
+  "video_title": "포스코DX 슈팅 이전 관찰 1부",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "포스코DX가 1만 원대에서 수만 원대로 역사적 폭등 랠리를 펼치기 직전, 일봉과 주봉에서 나타난 명확한 사전 징후 관찰 일지. 장기간 1만 원대 중반에서 박스권을 형성하며 기관/외인의 쌍끌이 수급이 매일 조용히 들어왔고, 코스피 이전 상장이라는 구조적 패시브 자금 유입 명분을 쌓아가는 '슈팅 이전 조용한 잠복기'의 특징을 포착하는 기법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "수문 개방 직전의 거대한 댐 비유",
+        "intended_meaning": "물(수급)이 댐 뒤에 가득 차올라 수위가 한계에 달했을 때, 수문이 열리기 직전의 팽팽한 긴장감."
+      },
+      {
+        "original_metaphor": "압력밥솥의 김 모으기 비유",
+        "intended_meaning": "딸랑딸랑 소리가 나며 김을 뿜어내기 직전까지 내부 압력을 극도로 높여가는 응축의 단계."
+      }
+    ],
+    "psychological_warnings": "매일 1~2%씩 오르내리는 횡보에 지쳐 물량을 털리지 말 것. 메이저 수급이 연속해서 들어오는 대형주는 시세를 쏘기 전 개미를 지치게 만들어 스스로 나가떨어지게 만듦."
+  },
+  "quantitative_filters": {
+    "dual_institutional_buying": "최근 10영업일 중 7일 이상 외국인 및 기관 양매수 유입.",
+    "box_range_compression": "일봉상 변동폭이 10~15% 이내로 수렴하며 20일선이 60일선을 뚫는 정배열 완성.",
+    "turnover_consolidation": "대량 거래 이후 거래량이 마르면서도 주가는 박스 상단에 안착."
+  },
+  "qualitative_filters": {
+    "structural_passive_inflow": "코스피 이전 상장 추진 등 코스피200 편입에 따른 수조 원대 패시브 펀드 강제 매수 모멘텀.",
+    "market_regime_adaptation": "포스코 그룹 전체(포스코홀딩스, 퓨처엠 등)로 시장 자금이 순환매되는 그룹사 시너지."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "코스피 이전 상장 모멘텀을 보유하고 양매수가 지속되는 박스권 종목을 관찰할 때",
+      "action_or_mindset": "대시세 1순위 매집 후보로 분류한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "박스권 상단 돌파 전 20일선 눌림목에서",
+      "action_or_mindset": "스윙 관점으로 3분할 매집을 진행한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "코스피 이전 상장 철회 공시나 기관/외인의 대규모 이탈이 발생할 경우",
+      "action_or_mindset": "즉각 손절하고 철수한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "주가가 며칠째 제자리걸음을 할 때",
+      "action_or_mindset": "압력밥솥의 김이 찰 때까지 차분하게 기다리는 인내심을 유지한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "코스피 이전 상장주 족보 분석 시",
+      "action_or_mindset": "역대 코스피 이전 상장 공시 전후의 주가 상승률과 매집 패턴을 비교 정리한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "포스코DX",
+      "role": "슈팅 직전 매집 모범사례",
+      "context": "코스피 이전 상장 공시 전 1만 원대 중반에서 양매수를 누적시키며 시세를 준비한 사례"
+    },
+    {
+      "ticker_name": "포스코홀딩스",
+      "role": "그룹사 맏형 기둥",
+      "context": "포스코 그룹주 전체의 훈풍을 이끌어준 중심축"
+    }
+  ]
+}

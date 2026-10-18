@@ -1,0 +1,72 @@
+{
+  "video_id": "100038",
+  "video_title": "종목선정의 핵심 ⧸ 회복력",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "트레이딩 종목 선정의 알파이자 오메가는 단순한 당일 등락률이 아니라 '회복력(Resilience)'임. 시장 지수 급락이나 일시적 악재로 인해 종목이 밀렸을 때, 지수가 멈추자마자 남들보다 2배, 3배 빠르게 자기 자리로 되돌아오고 양봉을 뽑아내는 종목이 진짜 세력이 관리하는 S급 주도주임. 회복력이 없는 종목은 지수가 반등해도 바닥에 누워있다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "오뚝이의 탄성 비유",
+        "intended_meaning": "주먹으로 세게 때려눕힐수록(투매) 바닥을 치고 더 스프링처럼 튀어 일어나는 놀라운 복원력."
+      },
+      {
+        "original_metaphor": "물속에 짓눌린 스티로폼 비유",
+        "intended_meaning": "물속 깊이 억지로 밀어 넣어도 손을 놓자마자 수면 위로 펑 하고 솟구쳐 오르는 부력."
+      }
+    ],
+    "psychological_warnings": "지수가 떨어질 때 안 떨어지는 종목보다, 지수 때문에 억울하게 같이 떨어졌다가 지수가 멈출 때 '미친 듯이 가장 먼저 올라오는 종목'을 찾아야 함. 그것이 시장의 대장주를 감별하는 가장 확실한 리트머스 시험지임."
+  },
+  "quantitative_filters": {
+    "recovery_speed": "지수 투매 멈춤 후 30분 이내에 투매 직전 가격대를 80% 이상 원상 복구.",
+    "relative_strength_green": "코스닥 지수는 여전히 파란불(하락)인데 해당 종목은 홀로 빨간불(양봉 전환).",
+    "volume_expansion_on_rebound": "회복 반등 시 거래량이 투매 하락 시 거래량의 1.5배 이상 폭발."
+  },
+  "qualitative_filters": {
+    "strong_market_interest": "시장의 모든 단타 트레이더와 대형 기관이 지수 반등 시 가장 먼저 1순위로 클릭하는 종목.",
+    "market_regime_adaptation": "약세장일수록 회복력이 뛰어난 종목으로만 자금이 극단적으로 쏠리는 양극화 발생."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "지수 급락 후 반등 시점에",
+      "action_or_mindset": "등락률 상위 화면에서 가장 먼저 양봉으로 치고 올라오는 회복력 1등주를 스크리닝한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "회복력 대장주가 투매 저점을 딛고 전고점을 향해 거래량을 뿜을 때",
+      "action_or_mindset": "집중 분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "지수가 반등하는데도 제자리에서 빌빌대며 회복력이 없는 종목을 들고 있다면",
+      "action_or_mindset": "미련 없이 손절하고 회복력 대장주로 교체 매매한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "낙폭이 큰 잡주가 싸 보여서 끌릴 때",
+      "action_or_mindset": "회복력이 없는 종목은 지수가 재차 밀릴 때 지하실로 떨어진다는 경고를 상기한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "회복력 지표 정량화 시",
+      "action_or_mindset": "지수 저점 대비 종목의 V자 반등 탄력도(베타 계수)를 산출하여 주도주 점수를 매긴다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "포스코DX",
+      "role": "회복력 종목선정 1순위 모범사례",
+      "context": "지수가 흔들려도 투매가 멈추면 가장 먼저 상한가와 급반등을 뽑아낸 절대 회복력 사례"
+    },
+    {
+      "ticker_name": "에코프로",
+      "role": "지수 장악 회복력 사례",
+      "context": "지수 하락을 비웃듯 즉각 전고점을 회복하며 날아간 종목"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video_id": "100040",
+  "video_title": "AI 주도테마 + 초전도체..？？",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "2023년 8월 1일 당시 대한민국 주식 시장을 뒤흔든 '초전도체(신규 광풍 테마)'의 출현과 기존 메이저 주도 테마였던 'AI 테마(솔트룩스, 셀바스헬스케어 등)' 간의 자금 대이동 및 상호작용 분석. 새로운 돌발 테마가 등장했을 때의 손익비 배팅 전략과, 기존 주도 테마의 신고가 돌파를 놓치지 않는 멀티 마켓 트레이딩 기술.",
+    "key_analogies": [
+      {
+        "original_metaphor": "메기 효과 비유",
+        "intended_meaning": "평화롭던 어항(시장)에 초전도체라는 거대한 메기가 던져져 모든 수급과 개인의 시선을 빨아들이며 기존 종목들을 뒤흔듦."
+      },
+      {
+        "original_metaphor": "자금의 시소게임 비유",
+        "intended_meaning": "한쪽 테마(초전도체)가 치솟으면 다른 쪽 테마(기존 주도주)가 일시적으로 눌리고, 반대로 메인 AI가 신고가를 뚫으면 자금이 다시 회귀하는 시소의 균형."
+      }
+    ],
+    "psychological_warnings": "정체불명의 신규 테마가 떴다고 해서 기존에 잘 보던 메인 주도 테마를 헌신짝처럼 버리지 말 것. 검증된 신고가 주도주(AI)를 중심에 두고, 신규 광풍 테마(초전도체)는 철저한 손익비와 소액 배팅으로 유연하게 다뤄야 함."
+  },
+  "quantitative_filters": {
+    "superconductor_risk_reward": "초전도체는 성공 시 수백% 폭등, 실패 시 -15% 손절을 각오하는 1:5 이상의 극단적 손익비 배팅.",
+    "ai_breakout_rank": "AI 테마 내 1등주(셀바스헬스케어) 상한가 안착 및 2등주(솔트룩스) 신고가 돌파 동기화 확인.",
+    "turnover_shift_monitoring": "초전도체 테마로의 당일 거래대금 유입 비중(1,000억~2,000억 원 돌파 여부) 실시간 추적."
+  },
+  "qualitative_filters": {
+    "novelty_vs_substance": "초전도체의 학술적 진위 여부를 떠나 시장의 '미친 광풍(광기)' 자체를 수급적 모멘텀으로 인식.",
+    "market_regime_adaptation": "테마 간 수급 충돌이 일어날 때는 1등주 외에는 전부 윗꼬리 리스크가 있으므로 철저히 양 테마 1등주만 공략."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "초전도체 같은 초대형 신규 테마가 발생했을 때",
+      "action_or_mindset": "대장주(서남 등)를 즉각 관심종목 1순위에 올리고 기존 AI 대장주와 함께 듀얼 모니터링한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "AI 테마 1등주 셀바스헬스케어가 상한가로 굳히고 2등주 솔트룩스가 신고가를 뚫을 때",
+      "action_or_mindset": "솔트룩스를 2분할 매수로 적극 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "초전도체 신규 테마 매매 시",
+      "action_or_mindset": "손절폭 -10~15%를 명확히 정하고 비중을 평소의 30~50% 수준으로 조절하여 진입한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "신규 테마의 진위 논란에 휩쓸려 혼란스러울 때",
+      "action_or_mindset": "진짜인지 가짜인지는 과학자에게 맡기고, 트레이더는 시장의 돈이 어디로 쏠리는지만 본다는 자세를 견지한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "신규 광풍 테마 분석 시",
+      "action_or_mindset": "역대 신규 테마(초전도체, 맥신, 그래핀 등)의 1차 파동 지속 기간과 일평균 변동성을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "서남 / 덕성 / 신성델타테크",
+      "role": "초전도체 광풍 신규 테마주",
+      "context": "시장의 모든 시선을 강탈하며 상한가 랠리를 시작한 초전도체 모범 사례"
+    },
+    {
+      "ticker_name": "셀바스헬스케어",
+      "role": "AI 테마 당일 1등 상한가 대장주",
+      "context": "아침 일찍 가장 강하게 치고 나가며 상한가로 테마에 불을 붙인 주도주"
+    },
+    {
+      "ticker_name": "솔트룩스",
+      "role": "AI 신고가 돌파 핵심주",
+      "context": "셀바스헬스케어의 뒤를 이어 역사적 신고가를 돌파한 메인 공략주"
+    }
+  ]
+}

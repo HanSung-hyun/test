@@ -1,0 +1,72 @@
+{
+  "video_id": "100024",
+  "video_title": "신고가 큰 시세 이전 매매 방법",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "역사적 신고가를 뚫고 100~300% 폭등하는 대시세주는 돌파 당일 갑자기 태어나는 것이 아님. 돌파 이전 수주~수개월 동안 박스권 상단에서 전고점 매물을 지속적으로 두드리며 세력이 자금을 누적시키는 사전 징후가 반드시 나타남. 이 사전 매집 구간에서 박스권 하단 지지 시 선취매하거나 상단 돌파 초입에 비중을 싣는 대시세 선점 기법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "용수철 압축 비유",
+        "intended_meaning": "박스권 상단에 부딪히며 튀어 나가지 않고 계속 매물을 갉아먹는 것은 용수철을 끝까지 짓누르는 과정이며, 손을 떼는 순간 천장을 뚫고 솟구침."
+      },
+      {
+        "original_metaphor": "마그마 응축 비유",
+        "intended_meaning": "지표면(전고점) 바로 아래에서 마그마가 끓어오르며 지반을 녹여내는 전조 증상."
+      }
+    ],
+    "psychological_warnings": "신고가 돌파 후 50%, 100% 오른 상태에서 뉴스를 보고 흥분해 추격매수하지 말 것. 진짜 프로는 시세가 폭발하기 전 조용한 박스권에서 지루함을 견디며 물량을 모아감."
+  },
+  "quantitative_filters": {
+    "resistance_test_count": "역사적 신고가 또는 1년 최고점 저항을 최소 3회 이상 지속적으로 타격.",
+    "accumulated_turnover": "박스권 상단 부근에서의 누적 거래대금이 과거 전고점 형성 당시 대금을 상회.",
+    "box_bottom_support": "조정 시 박스권 하단 또는 20일 이동평균선을 종가상 이탈하지 않음."
+  },
+  "qualitative_filters": {
+    "epoch_making_catalyst": "단순 실적 호전을 넘어 산업의 패러다임 변화나 세계 최초 타이틀을 가진 강력한 메가 재료 보유.",
+    "market_regime_adaptation": "지수가 불안정할 때도 신고가 부근에서 주가가 밀리지 않는 종목이 시장 1순위 주도주임."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "신고가 저항선 바로 밑에서 저점을 높이며 거래량을 누적시키는 종목을 발굴할 때",
+      "action_or_mindset": "대시세 분출 후보로 선정하고 일봉/주봉을 분석한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "박스권 하단 지지 확인 시 1차 매수, 신고가 저항선 대량 거래 돌파 시 2차 매수로 진입한다.",
+      "action_or_mindset": "비중을 실어 시세를 추종한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "신고가 돌파 시도 후 대량 거래 장대음봉으로 박스 안으로 재추락할 경우",
+      "action_or_mindset": "가짜 돌파(트랩)로 판단하고 즉각 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "돌파 전 횡보가 길어져 지루할 때",
+      "action_or_mindset": "큰 시세 이전의 고요함임을 믿고 흔들리지 않는다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "역대 10배 텐배거 종목 연구 시",
+      "action_or_mindset": "신고가 돌파 직전 3개월간의 박스권 형태와 거래량 누적 패턴을 전수 조사한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "동운아나텍",
+      "role": "신고가 대시세 전조 모범사례",
+      "context": "신고가 돌파 전 바닥권 박스 상단에서 매물을 흡수하며 대시세를 준비한 사례"
+    },
+    {
+      "ticker_name": "이수페타시스",
+      "role": "신고가 랠리 사례",
+      "context": "전고점 저항을 지속 두드린 뒤 역사적 신고가로 치솟은 사례"
+    }
+  ]
+}

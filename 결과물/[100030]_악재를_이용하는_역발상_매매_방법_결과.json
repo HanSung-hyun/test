@@ -1,0 +1,72 @@
+{
+  "video_id": "100030",
+  "video_title": "악재를 이용하는 역발상 매매 방법",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "주식 시장에서 악재는 공포의 대상이 아니라 때로는 최고의 할인 쿠폰이 됨. '치명적 악재(횡령/배임, 사법 리스크)'는 피해야 하지만, '핑계성 가짜 악재(당연한 제약, 일정 일시 지연, 근거 없는 찌라시 투매)'는 세력이 개미들의 물량을 털어내기 위해 만드는 역발상 기회임. 공포가 절정에 달해 투매가 쏟아질 때 분할 매수로 진입하여 V자 반등을 취하는 고난도 역발상 트레이딩.",
+    "key_analogies": [
+      {
+        "original_metaphor": "비 온 뒤 땅이 굳어지는 비유",
+        "intended_meaning": "악재라는 소나기가 한바탕 쏟아져 부실한 개미 매물이 털려나간 뒤, 땅이 더 단단해져 더 높이 주가가 솟구침."
+      },
+      {
+        "original_metaphor": "호랑이 굴에서 가죽 챙기기 비유",
+        "intended_meaning": "남들이 공포에 질려 도망치는 위험한 호랑이 굴(투매 현장)에 들어가 침착하게 가치 있는 가죽(저가 물량)을 챙겨 나오는 역발상."
+      }
+    ],
+    "psychological_warnings": "뉴스 헤드라인의 자극적인 단어에 놀라 패닉셀을 던지지 말 것. '이 악재가 이 기업의 본질적 가치나 테마의 미래를 파괴하는가?'를 이성적으로 1초만 자문하면 기회인지 위기인지가 보임."
+  },
+  "quantitative_filters": {
+    "panic_sell_dip": "악재 뉴스 발생 직후 30분~1시간 내 주가가 -8~15% 급락하는 과매도 투매.",
+    "support_rebound_volume": "투매 발생 후 특정 지지선(전고점, 라운드피겨)에서 밑꼬리를 달며 거래량이 급증하는 손바뀜 발생.",
+    "target_spread": "투매 저점 대비 반등 5~10% 구간에서 짧게 익절 청산."
+  },
+  "qualitative_filters": {
+    "innocuous_bad_news": "임산부 주의사항 등 당연한 제약, 일정의 1~2주 단순 순연 등 펀더멘털과 무관한 트집성 악재.",
+    "market_regime_adaptation": "시장이 강세장일수록 핑계성 악재 투매 후 V자 반등 복원력이 압도적으로 강력함."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "주도주에 악재 뉴스가 뜨며 장중 급락이 쏟아질 때",
+      "action_or_mindset": "사법 리스크 여부를 먼저 체크하고, 핑계성 악재일 경우 역발상 매수 리스트에 올린다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "투매가 멈추고 분봉상 꼬리를 달며 저점을 형성할 때",
+      "action_or_mindset": "2~3분할 매수로 과감히 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "악재가 예상보다 심각한 횡령이나 법적 리스크로 번질 경우",
+      "action_or_mindset": "미련 없이 즉각 전량 손절하여 원금을 사수한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "투매 창을 보며 손이 떨릴 때",
+      "action_or_mindset": "대중과 반대로 생각하고 행동해야 큰돈을 번다는 역발상 철학을 상기한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "가짜 악재 반등 통계 수립 시",
+      "action_or_mindset": "뉴스 키워드별 당일 투매 후 저점 대비 반등률을 데이터베이스화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "이수화학",
+      "role": "악재 노이즈 반등 사례",
+      "context": "인적분할 후 노이즈로 밀렸으나 기술적 반등을 강하게 제공한 사례"
+    },
+    {
+      "ticker_name": "삼부토건",
+      "role": "단기 악재 극복 주도주 사례",
+      "context": "다양한 정치/시황 노이즈에도 불구하고 재건 모멘텀으로 반등을 지속한 사례"
+    }
+  ]
+}

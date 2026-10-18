@@ -1,0 +1,72 @@
+{
+  "video_id": "100041",
+  "video_title": "신고가 돌파 이전 차트 신호⧸ 당일 AI테마 신고가 가능성을 미리 생각했던 이유",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "솔트룩스가 당일 전고점을 뚫고 역사적 신고가를 달성할 수 있음을 장 시작 전 미리 예측할 수 있었던 차트 신호: (1) 며칠 전부터 전고점을 향해 상승하면서 대량 거래대금을 꾸준히 누적시키며 매물을 흡수함, (2) 반년 전 지수 투매로 물려있던 악성 매물대 가격대까지 치고 올라와 본전 탈출 매물을 다 받아냄, (3) 당일 아침 형제주인 셀바스헬스케어가 1등주로 상한가로 직행하며 섹터 점화. 대금 누적과 전고점 매물 소화의 차트 신호.",
+    "key_analogies": [
+      {
+        "original_metaphor": "도화선과 폭탄의 연쇄 폭발 비유",
+        "intended_meaning": "1등주 셀바스헬스케어가 도화선에 불을 붙여 상한가로 가자, 매물을 소화해 둔 2등주 솔트룩스라는 거대한 폭탄이 신고가로 터짐."
+      },
+      {
+        "original_metaphor": "구원투수의 본전 탈출 매물 흡수 비유",
+        "intended_meaning": "반년 동안 물려있던 개미들에게 '구원투수(세력)'가 나타나 본전 탈출 기회를 주며 물량을 전부 받아먹은 뒤 신고가로 날아감."
+      }
+    ],
+    "psychological_warnings": "전고점 부근에서 매물이 쏟아진다고 겁먹고 도망치지 말 것. 대량 거래대금을 실어 전고점 매물을 받아내고 있는 종목은 매도세가 소화되는 순간 저항이 완전히 사라져 폭발적인 시세가 시작됨."
+  },
+  "quantitative_filters": {
+    "cumulative_turnover_at_resistance": "전고점 저항선 부근에서 3~5영업일간 누적 거래대금이 과거 고점 거래대금의 150% 이상 달성.",
+    "higher_highs_breakout": "직전 고점들을 차례대로 갱신하며 일봉상 캔들의 꼬리가 짧아지는 양상.",
+    "sector_twin_confirmation": "동일 섹터 내 1등주가 상한가에 안착하여 테마의 상승 지속성을 담보."
+  },
+  "qualitative_filters": {
+    "strong_corporate_news": "대기업과의 AI 협업이나 정부 생성형 AI 사업 수주 등 확실한 모멘텀 보유.",
+    "market_regime_adaptation": "시장 전체에 마땅한 다른 대안 주도 테마가 없을 때 AI 섹터로의 자금 집중 가속화."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "전고점을 향해 가면서 거래대금을 누적시키고 과거 물린 매물을 흡수하는 차트를 발견할 때",
+      "action_or_mindset": "신고가 돌파 유력 후보로 등록하고 D-3일간 관찰한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "섹터 1등주가 상한가를 닫고, 해당 종목이 전고점 가격대를 대량 거래로 돌파하는 순간",
+      "action_or_mindset": "2분할 매수로 적극 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "전고점 돌파 후 대량 매도세가 쏟아지며 당일 시초가를 깰 경우",
+      "action_or_mindset": "쌍봉 트랩으로 판단하고 즉시 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "신고가 돌파 시 매물 저항이 두려울 때",
+      "action_or_mindset": "세력이 사전에 돈을 써서 매물을 다 흡수했다는 팩트를 신뢰한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "신고가 사전 신호 분석 시",
+      "action_or_mindset": "전고점 터치 시 거래대금 누적 비율과 신고가 돌파 성공률 간의 상관관계를 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "솔트룩스",
+      "role": "신고가 사전 대금 누적 모범사례",
+      "context": "전고점 매물을 대량 거래로 사전 흡수한 뒤 역사적 신고가로 치솟은 실전 분석 사례"
+    },
+    {
+      "ticker_name": "셀바스헬스케어",
+      "role": "테마 1등 기폭제 사례",
+      "context": "아침 일찍 상한가로 직행하며 솔트룩스의 신고가 돌파를 서포트한 대장주"
+    }
+  ]
+}

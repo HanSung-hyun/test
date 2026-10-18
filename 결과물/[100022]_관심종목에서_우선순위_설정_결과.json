@@ -1,0 +1,72 @@
+{
+  "video_id": "100022",
+  "video_title": "관심종목에서 우선순위 설정",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "데이트레이더의 성패는 수많은 관심종목 중 당일 가장 돈이 몰릴 1순위 종목을 선별하는 '우선순위 계급도'에 있음. 1순위: 시장 주도 테마의 1등 대장주 + 거래대금 수천억 + 신고가/돌파 차트, 2순위: 수급주 및 2등주, 3순위: 개별 재료주 및 잡주. 상위 서열 종목에만 집중할 때 슬리피지와 뇌동매매가 완벽히 차단된다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "피라미드 계급도 비유",
+        "intended_meaning": "피라미드 최정상의 황제(S급 주도주)와만 놀아야지, 바닥의 노예/잡병(3~4등 잡주)과 어울리면 함께 진흙탕에 처박힌다는 서열화 원리."
+      },
+      {
+        "original_metaphor": "교통 신호등 비유",
+        "intended_meaning": "1순위 종목은 파란불(적극 진입), 2순위는 노란불(확인 매매), 3순위는 빨간불(접근 금지)로 기계적 필터링."
+      }
+    ],
+    "psychological_warnings": "관심종목 창에 50개, 100개씩 무분별하게 등록해 두고 장중에 번쩍이는 종목을 추격하지 말 것. 종목이 많으면 집중력이 분산되어 뇌동매매의 먹잇감이 됨."
+  },
+  "quantitative_filters": {
+    "top_priority_turnover": "당일 예상 거래대금 3,000억 이상 또는 전일 대비 거래대금 300% 이상 폭증 종목.",
+    "leader_spread": "테마 내 등락률 1위 및 분봉상 가장 먼저 상한가 또는 20% 이상 도달한 1등주.",
+    "max_watchlist_limit": "당일 매매 집중 관심종목은 최대 3~5개 이내로 압축."
+  },
+  "qualitative_filters": {
+    "theme_momentum_rank": "단발성 테마가 아닌 시장 전체 수급을 흡수하는 메인 주도 섹터 확인.",
+    "market_regime_adaptation": "장이 약할수록 우선순위 1등주에만 집중하고, 2~3순위 매매는 전면 취소."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "장전 관심종목 분류 시",
+      "action_or_mindset": "거래대금, 테마 대장 여부, 차트 위치(신고가)를 기준으로 1~3순위 라벨을 엄격히 부여한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "장 시작 후",
+      "action_or_mindset": "1순위 종목의 돌파 및 눌림에만 최우선 자금을 배정한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "1순위 종목이 무너지고 3순위 잡주가 급등할 때",
+      "action_or_mindset": "유혹에 빠지지 않고 매매를 정지하여 계좌를 지킨다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "모든 종목을 다 보고 싶은 조급증이 들 때",
+      "action_or_mindset": "황제주 1개에서 큰 수익을 내는 것이 잡주 10개보다 안전하다는 원칙을 되새긴다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "우선순위 적중률 분석 시",
+      "action_or_mindset": "당일 1순위로 지정한 종목의 고가 형성률과 승률을 주간 단위로 검증한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "포스코DX",
+      "role": "1순위 주도주 모범사례",
+      "context": "대량 거래대금과 코스피 이전 상장 모멘텀으로 당일 1순위 공략주로 손색없던 사례"
+    },
+    {
+      "ticker_name": "에코프로",
+      "role": "시장 황제주 사례",
+      "context": "시장의 모든 자금을 빨아들이는 1순위 메가 주도주"
+    }
+  ]
+}

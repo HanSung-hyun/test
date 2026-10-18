@@ -1,0 +1,67 @@
+{
+  "video_id": "100033",
+  "video_title": "재료 소멸 및 시나리오 등 잡다한 이야기",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "주식 시장에서 가장 치명적인 함정은 '재료 소멸(Sell on News)'의 메커니즘을 이해하지 못하는 것임. 모든 기대감은 이벤트 발표(D-Day) 직전에 주가에 선반영되며, 정작 그 뉴스가 세상에 공개되는 당일에는 스마트 머니의 차익 실현 매물이 쏟아져 주가가 급락함. 따라서 일정주는 D-Day가 다가오기 전에 미리 시나리오를 세워 기대감 상승 구간에서 분할 매도하고 나와야 한다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "자정의 신데렐라 마차 비유",
+        "intended_meaning": "12시 종이 울리기 전(재료 소멸 직전)에 파티장을 빠져나와야지, 종이 울리는 순간 아름다운 마차가 호박으로 변해버림."
+      },
+      {
+        "original_metaphor": "소문에 사고 뉴스에 팔아라 비유",
+        "intended_meaning": "주식 시장 100년 역사가 증명하는 가장 기본적이면서도 개미들이 가장 많이 당하는 재료 소멸의 법칙."
+      }
+    ],
+    "psychological_warnings": "D-Day 당일 뉴스가 엄청 좋게 나왔다고 해서 '이제부터 시작이다'라며 추격매수하는 바보짓을 하지 말 것. 세력은 그 뉴스를 보고 달려드는 순진한 개미들에게 모든 물량을 넘기고 떠남."
+  },
+  "quantitative_filters": {
+    "d_day_countdown": "확정된 이벤트 일자(D-Day) 기준 D-10 ~ D-3일 사이에 분할 매도 시작.",
+    "exit_timing_rule": "D-Day 당일 시초가 갭 상승 시 뒤도 돌아보지 않고 100% 전량 청산.",
+    "post_event_decline": "재료 소멸 종목은 향후 1~2주간 -20~40% 급락하므로 당분간 매매 금지."
+  },
+  "qualitative_filters": {
+    "scenario_pre_planning": "매수 버튼을 누르기 전 '언제, 어떤 뉴스가 뜰 때 얼마에 팔고 나올 것인가' 출구 시나리오 확립 필수.",
+    "market_regime_adaptation": "장이 약세장일수록 재료 소멸의 두들겨 맞음이 훨씬 가혹하므로 D-5일 전 조기 청산."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "확정 일정을 가진 테마주를 매매할 때",
+      "action_or_mindset": "D-Day를 달력에 표시하고 D-3일 이후 신규 매수를 원천 차단한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "D-Day 직전 기대감으로 시세가 분출할 때",
+      "action_or_mindset": "욕심부리지 않고 3~5회에 걸쳐 분할 매도로 수익을 실현한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "D-Day 당일 아침 호재 공시가 뜨며 갭 상승이 나올 때",
+      "action_or_mindset": "시초가에 전량 매도하고 절대 재진입하지 않는다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "재료 소멸 당일 더 갈 것 같은 환상이 생길 때",
+      "action_or_mindset": "신데렐라 마차가 호박으로 변하는 순간임을 상기하고 탈출한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "재료 소멸 통계 분석 시",
+      "action_or_mindset": "역대 주요 이벤트주(출시, 승인, 합병 등)의 D-Day 당일 시가 대비 종가 등락률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "일정 테마주 일반",
+      "role": "재료 소멸 매커니즘 사례",
+      "context": "출시일이나 발표 당일 호재가 떴음에도 장대음봉으로 곤두박질치는 전형적인 재료 소멸 사례들"
+    }
+  ]
+}

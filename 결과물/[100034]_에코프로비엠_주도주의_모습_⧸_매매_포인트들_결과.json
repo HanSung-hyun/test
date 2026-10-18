@@ -1,0 +1,72 @@
+{
+  "video_id": "100034",
+  "video_title": "에코프로비엠 주도주의 모습 ⧸ 매매 포인트들",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "코스닥 시가총액 1등인 에코프로비엠이 시장을 지배할 때 나타나는 S급 메가 주도주의 특징: (1) 장중 단일 종목 거래대금이 1조~2조 원에 육박하며 시장 전체 수급을 독식, (2) 분봉상 5선과 20선을 지지하며 웅장한 N자형 계단식 우상향을 전개, (3) 호가당 수만 주(수십억 원)의 매도벽을 시장가로 씹어먹는 괴력. 이러한 메가 주도주는 떨어질 때도 절대 곱게 죽지 않고 거대한 반등을 준다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "기관차와 객차 비유",
+        "intended_meaning": "에코프로비엠이라는 거대한 기관차가 앞에서 석탄을 때며 달려야 뒤에 달린 2차전지 객차(중소형주)들이 함께 속도를 낼 수 있음."
+      },
+      {
+        "original_metaphor": "블랙홀 비유",
+        "intended_meaning": "주변의 모든 잡스러운 테마와 종목의 돈을 남김없이 빨아들이는 시장 자금의 블랙홀 현상."
+      }
+    ],
+    "psychological_warnings": "시총 30조짜리 대형주가 하루에 15%, 20% 오른다고 무서워하지 말 것. 시장에 돈이 미친 듯이 쏠릴 때는 무거운 대형주가 가벼운 잡주보다 훨씬 탄력 있고 안전하게 날아감."
+  },
+  "quantitative_filters": {
+    "mega_turnover": "당일 단일 종목 거래대금 최소 7,000억~1조 5,000억 원 이상 폭발.",
+    "moving_average_glide": "일봉상 5일 이동평균선을 타고 올라가며 종가상 5일선을 훼손하지 않음.",
+    "intraday_n_rebound": "분봉상 1차 슈팅 후 2~3% 조정 시 당일 VWAP 지지선에서 즉각 재반등."
+  },
+  "qualitative_filters": {
+    "sector_absolute_supremacy": "2차전지 양극재 글로벌 1위 지위 및 조 단위 신규 공급 계약 모멘텀.",
+    "market_regime_adaptation": "코스닥 지수의 생사여탈권을 쥐고 있는 종목이므로 지수 연동 매매의 절대 지표로 활용."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "당일 거래대금 1조를 넘기며 코스닥 지수를 견인하는 메가 주도주를 포착할 때",
+      "action_or_mindset": "당일 계좌 비중의 최우선 순위로 설정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "분봉상 20이평선 눌림목 또는 전고점 돌파 확인 시",
+      "action_or_mindset": "자신감을 갖고 비중을 실어 2분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "분봉상 당일 최저점을 대량 거래를 동반하여 깰 경우",
+      "action_or_mindset": "지수 급락 징후로 판단하고 즉각 손절 및 시장 관망으로 돌아선다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "종목이 너무 무거워서 안 오를 것 같은 편견이 들 때",
+      "action_or_mindset": "돈이 몰리는 대형주가 가장 강력한 상승 엔진임을 기억한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "코스닥 1등주 매매 통계 수립 시",
+      "action_or_mindset": "거래대금 1조 이상 터진 날의 분봉 눌림 성공률과 당일 종가 고가 마감 확률을 분석한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "에코프로비엠",
+      "role": "코스닥 1등 메가 주도주",
+      "context": "단일 종목 1조 이상 대금을 터뜨리며 지수를 견인한 실전 매매 사례"
+    },
+    {
+      "ticker_name": "에코프로",
+      "role": "형제 시세 동조화 사례",
+      "context": "동반 랠리로 시장 전체를 지배한 핵심 종목"
+    }
+  ]
+}

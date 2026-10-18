@@ -1,0 +1,67 @@
+{
+  "video_id": "100023",
+  "video_title": "관심종목 정리와 마인드셋 (1)",
+  "category": "기타 일반",
+  "core_philosophy": {
+    "main_concept": "관심종목 창은 트레이더의 뇌 구조와 같음. 내 주관적 희망이나 물린 종목을 방치해 두는 곳이 아니라, 시장의 객관적 자금 흐름과 세력의 개입 흔적만을 냉정하게 남겨두는 정갈한 작업 공간이어야 함. 주기적으로 생명력이 다한 테마를 삭제하고 새로운 주도주를 채워 넣는 정리가 계좌 우상향의 필수 조건임.",
+    "key_analogies": [
+      {
+        "original_metaphor": "옷장 정리 비유",
+        "intended_meaning": "1년 동안 한 번도 안 입은 옷을 미련 없이 버려야 새 옷을 걸 공간이 생기듯, 거래량이 죽은 종목은 칼같이 관심종목에서 삭제해야 함."
+      },
+      {
+        "original_metaphor": "체로 자갈 거르기 비유",
+        "intended_meaning": "체로 모래를 걸러 알짜배기 금(주도주)만 남기고 불필요한 자갈(잡주)은 전부 털어내는 필터링."
+      }
+    ],
+    "psychological_warnings": "과거에 나에게 수익을 주었던 종목이라고 해서 정을 붙이지 말 것. 주식에는 의리가 없으며, 오직 현재 시장에서 거래대금을 터뜨리는 살아있는 종목만이 나의 유일한 벗임."
+  },
+  "quantitative_filters": {
+    "volume_death_delete": "최근 5영업일간 일일 거래대금이 100억 이하로 마른 종목은 관심종목 창에서 즉각 삭제.",
+    "ma60_break_cleanup": "60일선 아래로 역배열 전환된 종목 정리.",
+    "category_tab_structure": "HTS 탭을 (1) 실시간 주도테마, (2) 20일선 스윙 눌림, (3) 일정/재료 대기로 3단 구조화."
+  },
+  "qualitative_filters": {
+    "narrative_validity": "재료의 생명력이 여전히 남아있는지, 아니면 시장에서 이미 식상해진 재료인지 재평가.",
+    "market_regime_adaptation": "테마 순환매 주기가 빨라질 때는 관심종목 교체 주기도 2~3일 단위로 기민하게 단축."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "주말 관심종목 점검 시",
+      "action_or_mindset": "거래량이 죽고 추세가 꺾인 종목을 최소 30% 이상 삭제하여 공간을 확보한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "새로운 주도 테마 등장 시",
+      "action_or_mindset": "당일 1~2등 대장주를 최상단 탭에 즉각 등록하고 분봉 알림을 세팅한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "관심종목에 등록해둔 종목이 사법 악재나 횡령 공시가 뜰 때",
+      "action_or_mindset": "1초의 망설임도 없이 블랙리스트로 이동하고 삭제한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "삭제하려는 종목에 미련이 남을 때",
+      "action_or_mindset": "종목과 사랑에 빠지지 말고 냉정한 비즈니스적 시각을 유지한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "관심종목 적중률 점검 시",
+      "action_or_mindset": "등록 종목 중 실제 매매로 연결된 비율과 수익 기여도를 월간 평가한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "시장 주도 섹터 전반",
+      "role": "관심종목 압축 관리 대상",
+      "context": "추세와 거래량이 살아있는 종목군으로 HTS 화면을 정갈하게 유지하는 원리"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "100025",
+  "video_title": "동운아나텍을 시세 전 포착할 수 있던 이유",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "동운아나텍(타액 당측정기 세계 최초 상용화 이슈)이 수백% 폭등하기 전 포착할 수 있었던 비결: (1) 장기간 소외되었던 바닥권에서 평소 거래량의 수십 배에 달하는 '의문의 기준봉' 출현, (2) 세계 최초라는 파괴적인 재료의 등장, (3) 기준봉 이후 급락하지 않고 윗꼬리를 잡아먹으며 20일선 위에서 버티는 세력의 관리 흔적. 차트와 재료의 결합으로 대바닥 시세를 선점하는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "잠자는 사자의 기지개 비유",
+        "intended_meaning": "오랫동안 죽은 듯 엎드려 있던 종목이 갑자기 대량 거래대금을 터뜨리며 고개를 쳐드는 형상."
+      },
+      {
+        "original_metaphor": "들판에 피어오르는 연기 비유",
+        "intended_meaning": "불이 크게 번지기 전에 작은 연기(바닥권 대량 거래 기준봉)가 먼저 피어오르듯, 대시세의 전조를 알리는 신호탄."
+      }
+    ],
+    "psychological_warnings": "바닥권에서 첫 상한가가 나왔을 때 '이미 많이 올랐다'고 예단하지 말 것. 거대한 재료를 동반한 바닥권 첫 장대양봉은 끝이 아니라 세력의 매집과 출발을 알리는 시작점임."
+  },
+  "quantitative_filters": {
+    "dormant_volume_spike": "최근 6개월 평균 일일 거래대금 대비 10~30배 이상의 거래대금 폭발(1,000억 이상 유입).",
+    "base_box_breakout": "장기 횡보하던 대바닥 박스권 상단을 갭 상승 및 장대양봉으로 단숨에 돌파.",
+    "hold_above_candle_body": "기준봉 발생 후 3~5일간 주가가 기준봉 몸통 중간(50%) 위에서 견고하게 지지."
+  },
+  "qualitative_filters": {
+    "world_first_innovation": "'세계 최초 상용화', '원천 기술 특허' 등 시장 참여자들의 상상력을 무한히 자극하는 독점적 재료.",
+    "market_regime_adaptation": "기존 주도주가 피로감을 보일 때 시장의 새로운 신선한 돈이 새로운 혁신주로 급속히 이동."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "바닥권에서 '세계 최초' 재료와 함께 평소의 10배 이상 거래대금이 터진 종목을 발견할 때",
+      "action_or_mindset": "특급 관찰 대상 1순위로 지정하고 기준봉 라인을 설정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "기준봉 익일 시초가 눌림 또는 기준봉 상단 지지 확인 시",
+      "action_or_mindset": "2~3분할 매수로 선제 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "기준봉 시가를 거래량을 실어 깨고 내려앉을 경우",
+      "action_or_mindset": "세력의 속임수로 판단하고 칼같이 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "바닥 대비 30% 올랐다고 비싸 보일 때",
+      "action_or_mindset": "역사적 신고가로 가는 10배짜리 종목의 초입일 수 있음을 열어두고 재료의 무게를 평가한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "바닥권 혁신주 사례 분석 시",
+      "action_or_mindset": "'세계 최초' 타이틀을 단 종목들의 1차 파동 평균 상승률과 눌림 반등률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "동운아나텍",
+      "role": "바닥권 세계최초 재료 폭등 모범사례",
+      "context": "타액 당측정기 이슈로 바닥에서 대량 거래를 터뜨린 뒤 수백% 대시세를 분출한 사례"
+    },
+    {
+      "ticker_name": "펨트론",
+      "role": "바닥 돌파 후속주 비교군",
+      "context": "반도체 장비 재료로 바닥권을 뚫고 올라온 유사 패턴 종목"
+    }
+  ]
+}

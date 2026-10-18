@@ -1,0 +1,66 @@
+{
+  "video_id": "100028",
+  "video_title": "공부 방향 중요한 내용들",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "주식 공부에서 가장 중요한 것은 '본질에 집중하는 공부 로드맵'임. 수백 개의 후행성 보조지표(RSI, 볼린저밴드, 일목균형표 등)를 암기하는 것은 껍데기에 불과하며, 주가를 움직이는 절대적인 4대 본질인 (1) 재료(명분), (2) 차트(위치/지지저항), (3) 거래대금(세력의 돈), (4) 시장 분위기(센티먼트)에 90% 이상의 학습 에너지를 쏟아야 비로소 실전 고수로 거듭난다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "나무의 뿌리 vs 잔가지 비유",
+        "intended_meaning": "거래대금과 재료는 나무의 뿌리이고, 보조지표는 잔가지일 뿐임. 뿌리가 썩어있는데 잔가지 몇 개 다듬는다고 나무가 자라지 않음."
+      },
+      {
+        "original_metaphor": "일류 셰프의 기본 칼질 비유",
+        "intended_meaning": "화려한 플레이팅 기교보다 신선한 재료 고르기와 기본 칼질(기본기)이 요리의 맛을 99% 결정함."
+      }
+    ],
+    "psychological_warnings": "보조지표 하나만 맞추면 자동으로 돈이 복사되는 '마법의 지표'를 찾아 헤매는 게으름을 버릴 것. 그런 지표는 세상에 없으며, 시장과 인간의 탐욕/공포 심리를 정면으로 마주하는 공부를 해야 함."
+  },
+  "quantitative_filters": {
+    "study_time_allocation": "공부 시간의 70%는 당일 주도주 복기 및 차트/거래대금 분석에, 20%는 재료와 뉴스 분석에, 보조지표는 10% 미만으로 배분.",
+    "chart_sample_minimum": "하나의 매매 패턴을 실전에 적용하기 전 최소 100~300개 이상의 과거 차트 검증 필수."
+  },
+  "qualitative_filters": {
+    "first_principle_focus": "모든 차트의 캔들과 이평선을 볼 때 '여기에 돈이 들어왔는가? 세력이 물량을 털었는가?'를 자문.",
+    "market_regime_adaptation": "상승장, 하락장, 횡보장별로 주도 테마의 성격이 어떻게 달라지는지 시장 흐름을 체계적으로 관찰."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "새로운 기법이나 지표를 접했을 때",
+      "action_or_mindset": "보조지표에 현혹되지 말고 거래대금과 재료의 본질이 담겨있는지 먼저 검증한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "매일 공부 루틴 실행 시",
+      "action_or_mindset": "당일 상한가 및 거래대금 상위 20개 종목의 뉴스, 일봉, 분봉을 30분 이상 필수 복기한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "복기 없이 무지성 매매를 반복하고 있을 때",
+      "action_or_mindset": "매매를 즉시 중단하고 과거 매매 일지를 펼쳐 원칙을 재정립한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "주식 공부가 막막하고 지칠 때",
+      "action_or_mindset": "재료, 차트, 거래대금이라는 3대 뼈대만 파고들면 답이 나온다는 확신을 갖는다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "자기 학습 평가 시",
+      "action_or_mindset": "본인이 분석한 주도주 예측 리포트와 실제 시장 결과의 일치율을 주간 단위로 피드백한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "시장 실전 주도주 전반",
+      "role": "올바른 공부 대상",
+      "context": "보조지표가 아닌 거래대금과 재료의 크기로 시장의 본질을 학습하는 훈련 체계"
+    }
+  ]
+}

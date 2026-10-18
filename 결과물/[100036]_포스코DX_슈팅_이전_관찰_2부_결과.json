@@ -1,0 +1,72 @@
+{
+  "video_id": "100036",
+  "video_title": "포스코DX 슈팅 이전 관찰 2부",
+  "category": "종목 및 테마 분석",
+  "core_philosophy": {
+    "main_concept": "포스코DX 관찰 1부에 이은 실전 슈팅 타점 포착법. 장기 횡보를 끝낸 종목이 15,000원, 20,000원 라운드피겨 저항을 대량 거래대금으로 돌파하는 순간의 분봉 움직임: (1) 장 시작과 동시에 매도 호가를 걷어가는 시장가 프로그램 매수 폭발, (2) 돌파 후 과거 저항선이었던 라운드피겨가 강력한 지지선으로 전환되는 지지력, (3) 1단 로켓 분리 후 2단 로켓 점화로 이어지는 연속 시세 추종법.",
+    "key_analogies": [
+      {
+        "original_metaphor": "로켓의 1단 분리 후 2단 점화 비유",
+        "intended_meaning": "박스권을 뚫은 1차 슈팅(1단 로켓)에 이어, 라운드피겨 지지 후 더 강력한 2차 슈팅(2단 로켓)으로 우주를 향해 솟구치는 원리."
+      },
+      {
+        "original_metaphor": "성벽을 완전히 점령한 군대 비유",
+        "intended_meaning": "적의 성벽(저항선)을 뚫고 올라선 뒤, 그 성벽에 아군의 깃발(지지선)을 꽂고 다음 영토로 진격하는 모습."
+      }
+    ],
+    "psychological_warnings": "라운드피겨 돌파 시 +5%, +10% 수익에 만족해 전량 매도하고 끝내지 말 것. 메이저 수급이 실린 주도주의 라운드피겨 돌파는 새로운 시세의 출발점이므로 분할 매도로 수익을 극대화해야 함."
+  },
+  "quantitative_filters": {
+    "round_number_break": "15,000원, 20,000원 등 핵심 라운드피겨 가격대를 100만 주 이상 대량 거래로 돌파.",
+    "intraday_support_turn": "돌파했던 라운드피겨 가격대로 분봉이 눌릴 때 호가창이 단단하게 받쳐지며 재반등.",
+    "volume_expansion_ratio": "돌파 당일 거래대금이 직전 10일 평균 거래대금의 400% 이상 폭증."
+  },
+  "qualitative_filters": {
+    "market_consensus_shift": "'단순 IT 계열사'에서 '포스코 그룹 스마트팩토리 및 2차전지 자동화 핵심 기업'으로 시장의 인식 대전환.",
+    "market_regime_adaptation": "2차전지 섹터가 조정을 받을 때도 포스코DX 홀로 독야청청 신고가를 갱신하는 상대적 강도 확인."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "라운드피겨 돌파를 앞두고 분봉상 지지선을 높여가는 주도주를 포착할 때",
+      "action_or_mindset": "당일 돌파 매매 최우선 종목으로 지정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "라운드피겨 가격대를 시장가 매수로 뚫어내는 시점 또는 돌파 후 지지받을 때",
+      "action_or_mindset": "2분할 매수로 진입한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "라운드피겨 위로 올라갔다가 거래량을 실어 다시 그 가격대 밑으로 추락할 경우",
+      "action_or_mindset": "돌파 실패로 간주하고 즉시 손절한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "신고가 자리에서 매수하기 두려울 때",
+      "action_or_mindset": "앞에 매물이 없는 신고가야말로 가장 가볍게 날아갈 수 있는 자리임을 상기한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "라운드피겨 돌파 데이터 분석 시",
+      "action_or_mindset": "핵심 만원 단위 라운드피겨 돌파 성공 시 평균 추가 상승률을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "포스코DX",
+      "role": "라운드피겨 돌파 모범사례",
+      "context": "15,000원, 20,000원 라운드피겨를 뚫어내며 신고가 랠리를 완성한 실전 타점 사례"
+    },
+    {
+      "ticker_name": "포스코인터내셔널",
+      "role": "그룹사 동반 상승주 사례",
+      "context": "포스코 그룹주 랠리에서 함께 신고가를 돌파한 사례"
+    }
+  ]
+}

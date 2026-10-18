@@ -1,0 +1,72 @@
+{
+  "video_id": "100027",
+  "video_title": "확 밀리는 음봉 종목 스윙에 대한 공부용 영상 차트",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "주도주가 악재나 시장 투매로 인해 2~3일 만에 장대음봉으로 -15~25% 확 밀려버릴 때, 개미들은 공포에 질려 손절하지만 스마트 머니는 이를 최고의 스윙 매수 기회로 활용함. 거래대금이 터졌던 세력의 매집 단가(기준봉 시가, 20일선) 부근으로 급락할수록 손익비가 극대화되며, 세력 역시 단가를 사수하기 위해 기술적 반등을 강하게 쏘아 올린다는 원리.",
+    "key_analogies": [
+      {
+        "original_metaphor": "명품 백 바겐세일 비유",
+        "intended_meaning": "명품 백(S급 주도주)의 가치는 그대로인데 일시적인 오염(시장 투매)으로 30% 파격 세일을 할 때 기쁘게 담아두는 원리."
+      },
+      {
+        "original_metaphor": "낙하산 펼치기 비유",
+        "intended_meaning": "절벽에서 떨어지는 종목이지만 바닥에 튼튼한 안전망(세력의 매집 기준봉)이 있어 땅에 닿는 순간 튀어 오름."
+      }
+    ],
+    "psychological_warnings": "양봉이 치솟을 때는 무서운 줄 모르고 꼭대기에서 사면서, 음봉으로 팍팍 떨어져 싸졌을 때는 무서워서 도망치는 청개구리 심리를 극복해야 함. 돈은 남들이 공포에 질려 집어던질 때 버는 것임."
+  },
+  "quantitative_filters": {
+    "sharp_correction_level": "고점 대비 3~5영업일 만에 -15~30% 급속 가격 조정.",
+    "support_confluence": "과거 대량 거래대금이 터졌던 박스 상단 또는 20일/60일 이동평균선과 일치.",
+    "declining_sell_volume": "음봉으로 떨어질수록 일일 거래대금이 점진적으로 감소하는 양상 확인."
+  },
+  "qualitative_filters": {
+    "theme_durability": "테마 자체가 소멸한 것이 아니라 단순 수급 쏠림이나 단기 노이즈에 의해 밀린 우량주.",
+    "market_regime_adaptation": "코스닥 지수가 3일 연속 음봉으로 과매도권에 들어섰을 때 음봉 스윙의 승률 90% 돌파."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "거래대금 2,000억 이상 터졌던 주도주가 연속 음봉으로 지지선까지 확 밀려 내려올 때",
+      "action_or_mindset": "음봉 스윙 타깃으로 선정하고 3분할 매수가를 책정한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "지지선 도달 시 1차, 추가 이탈 시 2차, 20일선에서 3차로",
+      "action_or_mindset": "비중을 나누어 차분하게 모아가고 반등 시 +5~10%에서 분할 익절한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "기업의 본질을 훼손하는 치명적 횡령/배임/상폐 악재로 밀리는 경우",
+      "action_or_mindset": "음봉 매매를 전면 배제하고 진입하지 않는다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "파란색 음봉 캔들을 볼 때 두려움이 생길 때",
+      "action_or_mindset": "싸게 살 수 있는 기회임을 인지하고 분할 매수의 안전성을 신뢰한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "음봉 스윙 백테스트 시",
+      "action_or_mindset": "주도주 음봉 낙폭률(-15%, -20%, -25%)에 따른 반등 발생 일수와 평균 반등률을 데이터화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "한미반도체",
+      "role": "음봉 스윙 반등 모범사례",
+      "context": "신고가 후 지수 조정과 함께 깊게 밀렸으나 지지선에서 강한 기술적 반등을 준 사례"
+    },
+    {
+      "ticker_name": "포스코DX",
+      "role": "음봉 눌림목 스윙 사례",
+      "context": "연속 음봉으로 조정을 줄 때 분할 매수로 접근하여 큰 반등을 챙긴 사례"
+    }
+  ]
+}

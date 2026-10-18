@@ -1,0 +1,72 @@
+{
+  "video_id": "100039",
+  "video_title": "주도주 투매 공략 자리에 대한내용 + 마인드 조언",
+  "category": "매매 기법 및 심법",
+  "core_philosophy": {
+    "main_concept": "주도주가 고점에서 -10~15% 이상의 급격한 장중 투매가 쏟아질 때 공략할 수 있는 핵심 지지 자리: (1) 당일 시초가 및 직전 박스 상단, (2) 분봉상 세력이 돈을 쏟아부었던 대량 거래 기준봉의 시가, (3) 20일 이동평균선. 그리고 이 자리에서 가장 중요한 것은 기법보다 '공포를 이겨내는 마인드'임. 남들이 비명을 지를 때 침착하게 분할 매수로 진입해야 승자가 됨.",
+    "key_analogies": [
+      {
+        "original_metaphor": "피바다의 축제 비유",
+        "intended_meaning": "거리마다 피가 낭자할 때(투매 절정)가 바로 인생을 바꿀 주식을 가장 저렴하게 살 수 있는 축제의 순간임."
+      },
+      {
+        "original_metaphor": "담즙을 삼키는 인내 비유",
+        "intended_meaning": "하락하는 칼날을 분할 매수로 받을 때 느껴지는 극심한 공포와 쓴맛(담즙)을 삼켜내야 달콤한 수익의 열매를 맛봄."
+      }
+    ],
+    "psychological_warnings": "투매가 쏟아질 때 한 번에 풀배팅(몰빵)하지 말 것. 어디가 진짜 바닥인지는 세력도 시장 상황을 보며 결정하므로, 반드시 3~4분할로 안전망을 깔고 진입해야 심리가 흔들리지 않음."
+  },
+  "quantitative_filters": {
+    "intraday_dump_percentage": "장중 고점 대비 단 1~2시간 만에 -8~15% 수직 투매.",
+    "anchor_candle_base": "당일 오전 또는 전일 가장 큰 거래대금이 터졌던 기준봉의 시가 가격대.",
+    "split_buy_levels": "1차(투매 멈춤 꼬리), 2차(기준봉 시가), 3차(당일 저점 이탈 시 언더슈팅) 3단 분할 매수."
+  },
+  "qualitative_filters": {
+    "market_leader_exclusivity": "잡주는 절대 투매 매매 금지, 오직 당일 거래대금 최상위 1~2등 주도주에만 적용.",
+    "market_regime_adaptation": "지수가 극단적 투매 구간에 진입하여 반대매매가 쏟아지는 날 오후장에 최적 타점 형성."
+  },
+  "actionable_rules": [
+    {
+      "rule_id": "RULE_1",
+      "rule_type": "FILTER",
+      "condition": "당일 최강 주도주가 장중 급격한 투매로 쏟아질 때",
+      "action_or_mindset": "투매 공략 후보로 선정하고 기준봉 시가와 지지선 가격을 차트에 마킹한다."
+    },
+    {
+      "rule_id": "RULE_2",
+      "rule_type": "EXECUTION",
+      "condition": "마킹한 지지선에 도달하며 분봉상 하락 속도가 둔화될 때",
+      "action_or_mindset": "3분할로 분할 매수 주문을 집행한다."
+    },
+    {
+      "rule_id": "RULE_3",
+      "rule_type": "RISK",
+      "condition": "3차 매수가까지 무너지고 지수가 추가 폭락할 경우",
+      "action_or_mindset": "비중을 즉각 축소하고 반등 시 본전 탈출 시나리오를 가동한다."
+    },
+    {
+      "rule_id": "RULE_4",
+      "rule_type": "MINDSET",
+      "condition": "투매의 공포로 손이 얼어붙을 때",
+      "action_or_mindset": "피바다의 축제 비유를 떠올리며 계획된 분할 매수를 기계적으로 실행한다."
+    },
+    {
+      "rule_id": "RULE_5",
+      "rule_type": "RESEARCH",
+      "condition": "주도주 투매 반등 데이터 축적 시",
+      "action_or_mindset": "기준봉 시가 터치 후 당일 반등 성공 확률과 평균 반등 폭을 통계화한다."
+    }
+  ],
+  "mentioned_tickers": [
+    {
+      "ticker_name": "포스코 그룹주",
+      "role": "투매 공략 핵심 주도주",
+      "context": "장중 깊은 투매가 나왔으나 기준봉 시가 지지선에서 강하게 반등을 제공한 사례"
+    },
+    {
+      "ticker_name": "2차전지 주도주 일반",
+      "role": "공포 속 분할매수 사례",
+      "context": "변동성이 극에 달했을 때 분할 매수로 접근하여 큰 수익을 챙긴 사례"
+    }
+  ]
+}
