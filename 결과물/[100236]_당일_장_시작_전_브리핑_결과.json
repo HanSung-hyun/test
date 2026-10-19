@@ -1,0 +1,43 @@
+{
+  "video_id": 100236,
+  "video_title": "당일 장 시작 전 브리핑",
+  "category": "시황 및 장세 분석",
+  "main_concept": "ASML 실적 쇼크로 인한 글로벌 반도체 급락 속 TSMC 실적 발표 대기 및 유리기판/전력설비의 대안주 장전 전략",
+  "psychological_warnings": "ASML의 수주 잔고 감소 뉴스로 반도체가 갭하락한다고 무작정 패닉셀하지 말고, 영향이 덜한 후공정과 대안 섹터로 눈을 돌려야 함",
+  "key_analogies": [
+    {
+      "analogy_name": "노광장비의 일시적 정체 비유",
+      "original_quote": "ASML이라는 거대한 장비 회사가 숨을 고른다고 해서, 인공지능이라는 거대한 시대적 물결 자체가 멈추는 것은 아닙니다.",
+      "trading_principle": "ASML 실적 쇼크는 선행 장비 발주 지연일 뿐 AI HBM과 첨단 패키징 수요는 견고하므로 후공정 대장주는 저점 기회가 됨."
+    },
+    {
+      "analogy_name": "비어있는 무대의 새 주인공 비유",
+      "original_quote": "전통 반도체라는 메인 주연이 무대 뒤로 물러나자, 유리기판과 전력설비라는 새로운 조연들이 무대 한가운데로 올라섭니다.",
+      "trading_principle": "반도체가 흔들릴 때 시장의 자금은 AI 인프라의 필수 요소인 변압기/전선과 차세대 유리기판으로 대피함."
+    }
+  ],
+  "quantitative_filters": {
+    "trading_value": "유리기판(필옵틱스, 와이씨켐) 및 전력기기(제룡전기) 거래대금 2,000억 이상",
+    "price_action": "ASML 쇼크로 반도체 소부장 -3~5% 갭하락 출발 후 9시 30분 지지 확인, 대안주는 양봉 출발",
+    "holding_period": "스윙 2~4일 또는 당일 데이트레이딩",
+    "profit_target_stoploss": "대안주 슈팅 시 +7~12% 익절, 반도체 낙폭과대 반등 시 +5% 익절, -2% 손절"
+  },
+  "qualitative_filters": {
+    "market_regime_adaptation": "글로벌 반도체 대장주의 실적 쇼크로 기술주 전반에 차별화가 심화되는 조정 장세",
+    "sector_and_theme_priority": "대안 테마(유리기판, 전력설비) vs HBM 후공정(한미반도체)",
+    "real_time_tape_reading": "장초반 외국인 프로그램이 전통 반도체는 매도하면서 유리기판과 전력설비는 순매수하는지 수급 이동 확인"
+  },
+  "actionable_rules": {
+    "FILTER": "ASML 실적과 무관한 유리기판 1등주와 AI 전력망 대장주를 장전 최우선 대안주로 선정",
+    "EXECUTION": "장 개시 후 갭하락한 반도체는 관망하고, 양봉을 유지하는 대안주 시초가 돌파 매수",
+    "RISK": "오후에 발표될 TSMC 실적이 예상치를 하회할 경우 반도체 추가 매수 전면 보류",
+    "MINDSET": "하나의 문이 닫히면 시장은 반드시 다른 문을 연다. 새로운 문(대안 섹터)을 찾아라",
+    "RESEARCH": "ASML 실적 발표 당일 글로벌 반도체 밸류체인별 주가 상관관계 분석"
+  },
+  "mentioned_tickers": [
+    "ASML",
+    "한미반도체",
+    "필옵틱스",
+    "제룡전기"
+  ]
+}
