@@ -17,3 +17,10 @@
 
 ### 4. Windows 콘솔 인코딩 방어
 - 모든 파이썬 스크립트 상단에 `sys.stdout.reconfigure(encoding="utf-8")`를 필수 적용하여 `cp949` 이모지 에러 방지.
+
+### 5. 파이썬 코드 실행 정책 (Python Code Execution Policy)
+- `python -c "..."` 형태의 인라인 실행을 절대 사용하지 말 것.
+- 실행하거나 테스트할 파이썬 코드는 항상 프로젝트 루트의 `temp.py` 파일에 완전 덮어쓰기(`Overwrite: true`)하여 작성할 것.
+- 고정된 명령인 `python temp.py`로만 실행할 것.
+- 사용자에게 확인을 구하지 않고 즉시 도구를 호출하여 실행할 것.
+- `# -*- coding: utf-8 -*-` 및 UTF-8 인코딩 처리를 반드시 포함할 것.
