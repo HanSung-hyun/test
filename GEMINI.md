@@ -1,19 +1,9 @@
-# 심플TV 프로젝트 AI 에이전트 행동 지침 및 인수인계 규칙 (GEMINI.md)
+# Python Code Execution Policy
+When executing or testing Python code, you must strictly follow these rules to avoid terminal parsing errors, permission prompts, and redundant round-trips:
 
-## 📌 필수 규칙 (Critical Rules)
-
-### 1. 세션 시작 시 즉시 현황 파악
-- 새로운 세션이 시작되면 무조건 `인수인계_문서.md`와 `세션_작업_히스토리.md`를 먼저 확인하여 직전 작업 상태, 다운로드 현황, 유저의 이전 요청을 완벽히 숙지할 것.
-
-### 2. 항시 작업 및 대화 히스토리 실시간 기록 (유저 필수 지시사항)
-- **유저 질문 / 요청 내용**
-- **AI 핵심 답변 및 의사결정 내용**
-- **생성 및 수정한 코드/파일 내역**
-- **현재 진행 중이거나 완료된 작업 상태**
-위 4가지 항목을 매 주요 작업/답변 시마다 `세션_작업_히스토리.md` 및 `인수인계_문서.md`에 지속적으로 누적 기록할 것. (세션이 예기치 않게 끊기거나 다음 담당 AI가 오더라도 즉시 100% 동일하게 복원 가능해야 함)
-
-### 3. "확인해/체크해" 요청 시 선행 실행 절대 금지
-- 유저가 "확인해", "조회해", "체크해"라고 지시하면 **오직 현황 및 리스트만 파악하여 보고**하고, 다운로드나 데이터 변경 작업을 임의로 먼저 실행하지 말 것. 유저의 명시적인 "시작/수행" 승인이 있을 때만 실행에 착수함.
-
-### 4. Windows 콘솔 인코딩 방어
-- 모든 파이썬 스크립트 상단에 `sys.stdout.reconfigure(encoding="utf-8")`를 필수 적용하여 `cp949` 이모지 에러 방지.
+1. NEVER use inline execution like `python -c "..."`.
+2. Always write the code to a file named `temp.py` in the project root directory.
+3. CRITICAL: Always overwrite `temp.py` completely (`Overwrite: true`). Never append to it, ensuring no stale code from previous turns remains.
+4. Execute the file using the exact fixed command: `python temp.py`
+5. Do not ask for user confirmation in the chat; proceed directly with the execution tool call.
+6. Ensure the script handles UTF-8 encoding properly (e.g., include `# -*- coding: utf-8 -*-`) to prevent Windows console encoding errors.
